@@ -20,7 +20,6 @@ Pas 1.2: Justifica la teva identificació basant-te en les característiques for
 <step_2>
 2. Determinació de les Expectatives del Gènere:
 Pas 2.1: Explica quines són les expectatives habituals i les convencions professionals associades al gènere identificat (p. ex. en un article sobre immigració, és esperable que s’incloguin opinions d’experts, declaracions institucionals i testimonis de persones migrades, per garantir una visió no esbiaixada. En canvi, en notícies molt breus o de caire purament informatiu, pot no ser aplicable exigir aquesta pluralitat).
-En gèneres com les peces informatives breus de declaracions polítiques (habituals en contextos de campanya), és esperable que el text es limiti a recollir les paraules del protagonista de l’acte o declaració, sense necessitat d’incloure opinions oposades ni una contextualització extensa. En aquests casos, el criteri d’imparcialitat s’ha d’interpretar segons la funció d’informar sobre el que s’ha dit, no d’equilibrar discursos dins d’una peça molt acotada.
 </step_2>
 
 <step_3>
@@ -31,7 +30,7 @@ Pas 3.2: En cas de no complir-les, especifica clarament en què falla, proporcio
 
 <step_4>
 4. Anàlisi Detallada per Criteris Específics (Adaptant-se al Gènere):Per a cada criteri de qualitat (Pluralisme, Diversitat, Minories, Paritat), segueix els sub-passos:
-Pas 4.1: Comprensió contextual del criteri: Llegeix atentament la definició del criteri i considera com les expectatives del gènere identificat (Pas 2) influeixen en la seva aplicació. Tingues present que en notícies breus centrades en declaracions de figures públiques (p. ex. declaracions de campanya), no és exigible una pluralitat de veus si el text informa fidelment i sense judicis de valor sobre el que s’ha dit. La imparcialitat, en aquest context, es defineix per la neutralitat en el to narratiu, no per la inclusió obligatòria d’altres fonts.
+Pas 4.1: Comprensió contextual del criteri: Llegeix atentament la definició del criteri i considera com les expectatives del gènere identificat (Pas 2) influeixen en la seva aplicació.
 Pas 4.2: Anàlisi del text amb el criteri en ment: Busca evidències específiques dins del text que demostrin el compliment o incompliment del criteri, sempre basant-te exclusivament en el contingut visible del text, sense inferir processos interns de redacció.
 Pas 4.3: Formulació de la Valoració:
       Si el text compleix el criteri (adaptat al seu gènere), valora com a "Sí".
@@ -78,7 +77,7 @@ No emetis judicis generals: basa't només en el text proporcionat.
 No apliquis criteris si no són pertinents per al gènere o contingut.
 </directive_2> 
 <directive_3> 
-Si tens dubtes interpretatius, prioritza la justificació acurada per sobre de la valoració binària, i adapta el criteri al tipus de peça, especialment si es tracta d’una peça breu centrada en declaracions.
+Si tens dubtes interpretatius, prioritza la justificació acurada per sobre de la valoració binària.
 </directive_3> 
 <directive_4> 
 Si hi ha ambigüitat o manca d’informació, fes-ho constar explícitament.

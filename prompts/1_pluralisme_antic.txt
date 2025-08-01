@@ -43,7 +43,7 @@ Pas 3.2: En cas de no complir-les, especifica clarament en què falla, proporcio
 
 <step_4>
 
-4. Anàlisi Detallada per Criteris Específics (Adaptant-se al Gènere): Per a cada criteri de qualitat (Pluralisme, Diversitat, Minories, Paritat), segueix els sub-passos:
+4. Anàlisi Detallada per Criteris Específics (Adaptant-se al Gènere):Per a cada criteri de qualitat (Pluralisme, Diversitat, Minories, Paritat), segueix els sub-passos:
 Pas 4.1: Comprensió contextual del criteri: Llegeix atentament la definició del criteri i considera com les expectatives del gènere identificat (Pas 2) influeixen en la seva aplicació.
 
 Pas 4.2: Anàlisi del text amb el criteri en ment: Busca evidències específiques dins del text que demostrin el compliment o incompliment del criteri, sempre basant-te exclusivament en el contingut visible del text, sense inferir processos interns de redacció.
@@ -58,8 +58,6 @@ Si el criteri no és aplicable al gènere o al contingut, valora com a "No aplic
 
 Pas 4.4: Justificació: Proporciona un comentari breu i clar que justifiqui la valoració, citant exemples directes del text quan sigui possible.
 
-En textos informatius breus o centrats en accions concretes (projectes institucionals, iniciatives de govern, etc.), el pluralisme pot quedar reflectit per mitjà de mencions a actors implicats i voluntats de diàleg, encara que no hi hagi declaracions directes de totes les parts.
-
 </step_4>
 
 </analysis_flow>
@@ -68,7 +66,7 @@ En textos informatius breus o centrats en accions concretes (projectes instituci
 
 <criterium_1>
 
-Pluralisme: El text reflecteix la realitat social de manera fidel i permet la presència de diverses opinions o perspectives rellevants, respectant els principis democràtics i de convivència. El pluralisme **no exigeix exhaustivitat ni neutralitat estricta**, sinó una **representació equilibrada** de les parts implicades, ja sigui a través de declaracions literals, referències indirectes o contextualitzacions que evidenciïn diferents punts de vista.
+Pluralisme: El text reflecteix la realitat social de manera fidel i permet la presència de diverses opinions, respectant els principis democràtics i de convivència? Tingues en compte que el pluralisme no implica necessàriament la presència de totes les veus possibles, sinó que el text ha de reflectir una diversitat d'opinions i perspectives. També tingues en compte que no en totes les notícies tindria sentit aplicar aquest criteri, per exemple en notícies d'actualitat o informatives que no impliquin opinions diverses. En algunes notícies que es centren en narració d'alguns fets, el pluralisme pot no ser rellevant. Tingues en compte si el text presenta una única visió o si, malgrat tenir un to crític, incorpora dades, context històric i referències a actors diversos. Valora si s’hi inclouen veus o perspectives diferenciades (encara que no siguin citacions literals), i si la manca de neutralitat implica necessàriament absència de pluralisme. Ofereix una resposta matisada: és possible que el text no sigui neutral, però sí contextualitzat, i podria incloure dades, declaracions d'organismes o contextualització de posicions fins i tot si la narrativa principal és crítica.
 
 </criterium_1>
 
@@ -79,13 +77,17 @@ Pluralisme: El text reflecteix la realitat social de manera fidel i permet la pr
 Respon en format JSON amb la següent estructura:
 
 {{
-  "pluralisme": {{"compliment": "Sí|No|No aplica", "comentari": "Comentari breu"}}
+
+"pluralisme": {{"compliment": "Sí|No|No aplica", "comentari": "Comentari breu"}}
+
 }}
 
 Aquí et proporciona un exemple de la sortida esperada:
 
 {{
-  "pluralisme": {{"compliment": "Sí", "comentari": "Inclou declaracions de dues parts en conflicte i una font institucional."}}
+
+"pluralisme": {{"compliment": "Sí", "comentari": "Inclou declaracions de dues parts en conflicte i una font institucional."}}
+
 }}
 
 </response_format>
@@ -93,46 +95,46 @@ Aquí et proporciona un exemple de la sortida esperada:
 <execution_directive>
 
 <directive_1>
+
 No emetis judicis generals: basa't només en el text proporcionat.
+
 </directive_1>
 
-<directive_2>
+</directive_2>
+
 No apliquis criteris si no són pertinents per al gènere o contingut.
+
 </directive_2>
 
 <directive_3>
+
 Si tens dubtes interpretatius, prioritza la justificació acurada per sobre de la valoració binària.
+
 </directive_3>
 
 <directive_4>
+
 Si hi ha ambigüitat o manca d’informació, fes-ho constar explícitament.
+
 </directive_4>
 
 <directive_5>
 
 Quan avaluis el criteri de pluralisme, comprova si el text reflecteix de manera fidel la diversitat de la realitat social i facilita la presència d’opinions o perspectives diferenciades, respectant els principis democràtics i de convivència. Tingues present els matisos següents:
 
-1. Diversitat vs. exhaustivitat  
-El pluralisme no exigeix recollir totes les veus possibles, sinó mostrar una gamma representativa i rellevant de punts de vista. Valora si el text aporta context (dades, antecedents històrics, actors implicats) fins i tot quan la narrativa principal sigui crítica o prengui partit.
-
-2. Gènere i rellevància de la font  
+1. Diversitat vs. exhaustivitat
+El pluralisme no exigeix recollir totes les veus possibles, sinó mostrar una gamma representativa i rellevant de punts de vista.
+Valora si el text aporta context (dades, antecedents històrics, actors implicats) fins i tot quan la narrativa principal sigui crítica o prengui partit.
+2. Gènere i rellevància de la font
 Declaracions d’una sola persona: Quan la notícia es construeix al voltant de l’opinió o l’experiència d’una persona amb autoritat o interès periodístic (p. ex. columnes de John Carlin o entrevistes a Edu Sanjuan), no cal “contraposar-la” obligatòriament amb altres veus només pel fet de buscar equilibri. El criteri de pluralisme s’aplica de manera molt limitada a aquestes peces de declaracions individuals.
-
-3. Cobertura d’un fet aliè  
+3. Cobertura d’un fet aliè
 Si la peça informa sobre una decisió, un programa o una composició creada per tercers (p. ex. la manca de paritat d’una conselleria o un debat intern ja existent), el mitjà descriu una realitat que no pot modificar. No penalitzis l’article per no “corregir” aquesta manca de pluralitat; centra’t en si s’hi contextualitza adequadament el fet i es dona veu a les parts implicades segons la seva rellevància.
-
-4. Selecció editorial pròpia  
+4. Selecció editorial pròpia
 Quan la redacció és qui tria les fonts (p. ex. un reportatge sobre la Guia Macarfi on es decideix quins xefs opinen), sí que cal comprovar que la selecció no sigui injustificadament esbiaixada i que inclogui veus diverses (gènere, orígens, corrents d’opinió, etc.).
-
-5. Entrevistes i peces centrades en un protagonista  
+5. Entrevistes i peces centrades en un protagonista
 Les entrevistes o perfils se centren en la veu del protagonista; la manca d’altres veus no implica automàticament absència de pluralisme. Avalua, això sí, si l’entrevista aporta context, dades factuals o contrapreguntes que ajudin el lector a situar les declaracions.
-
-6. Neutralitat i pluralisme no són sinònims  
+6. Neutralitat i pluralisme no són sinònims
 Un text pot no ser neutral —pot assumir un to o una posició— però continuar sent plural si ofereix dades comprovables, antecedents i referències a perspectives alternatives pertinents.
-
-7. Veus implícites o indirectes  
-El pluralisme pot estar present encara que no hi hagi declaracions literals de totes les parts. Si el text inclou referències clares a actors diversos (ex. agricultors, turisme, autoritats locals) o explicita la voluntat de diàleg amb ells, això pot indicar pluralitat suficient dins el gènere informatiu. No penalitzis el text per no oferir una citació directa si el marc comunicatiu mostra consciència de les parts afectades.
-
 En la teva valoració, ofereix sempre una resposta matisada: indica fins a quin punt l’article aporta diverses perspectives o, si escau, justifica per què el criteri de pluralisme és poc rellevant per al gènere o l’enfocament concret de la peça.
 
 </directive_5>
@@ -140,6 +142,5 @@ En la teva valoració, ofereix sempre una resposta matisada: indica fins a quin 
 </execution_directive>
 
 ---
-
 Text de la notícia:
 {text}
