@@ -68,13 +68,7 @@ En textos informatius breus o centrats en accions concretes (projectes instituci
 
 <criterium_1>
 
-Pluralisme: El text ha de reflectir la realitat social de manera fidel i, quan escau, incloure diverses opinions o perspectives rellevants. El pluralisme no exigeix exhaustivitat ni neutralitat estricta, sinó una representació equilibrada i contextualitzada dels fets i valors, sempre respectant els principis democràtics i de convivència. Això pot expressar-se a través de declaracions literals, referències indirectes o estructures que facin visible la complexitat del tema.
-
-El pluralisme no implica necessàriament la presència de múltiples veus en cada peça, especialment quan es tracta de textos:
-
-- centrats en actors específics rellevants (com ara un partit, una persona o una institució) en una acció concreta;
-- de gènere informatiu o breu, amb funció descriptiva clara;
-- o de declaracions públiques de responsabilitat coneguda (rodes de premsa, compareixences, etc.).
+Pluralisme: El text reflecteix la realitat social de manera fidel i permet la presència de diverses opinions o perspectives rellevants, respectant els principis democràtics i de convivència. El pluralisme **no exigeix exhaustivitat ni neutralitat estricta**, sinó una **representació equilibrada** de les parts implicades, ja sigui a través de declaracions literals, referències indirectes o contextualitzacions que evidenciïn diferents punts de vista.
 
 </criterium_1>
 
@@ -116,25 +110,32 @@ Si hi ha ambigüitat o manca d’informació, fes-ho constar explícitament.
 
 <directive_5>
 
-Quan avaluïs el criteri de pluralisme, tingues en compte:
+Quan avaluis el criteri de pluralisme, comprova si el text reflecteix de manera fidel la diversitat de la realitat social i facilita la presència d’opinions o perspectives diferenciades, respectant els principis democràtics i de convivència. Tingues present els matisos següents:
 
-1. No exigeix múltiples veus en tots els casos  
-El pluralisme no significa que cada peça hagi de contenir més d’una veu. Si una notícia reflecteix fidelment l’actuació d’un actor rellevant (per exemple, un partit polític, una conselleria o un portaveu institucional), i no hi ha indicis d’afirmacions controvertides o context obviat, pot considerar-se plenament plural dins el seu propòsit.
+1. Diversitat vs. exhaustivitat  
+El pluralisme no exigeix recollir totes les veus possibles, sinó mostrar una gamma representativa i rellevant de punts de vista. Valora si el text aporta context (dades, antecedents històrics, actors implicats) fins i tot quan la narrativa principal sigui crítica o prengui partit.
 
-2. Actors centrals vs. context plural  
-En peces sobre un sol actor, el pluralisme pot consistir en l’explicació del context, la inclusió d’antecedents, o la indicació que hi ha altres actors implicats, encara que no se’n reculli la veu explícita.
+2. Gènere i rellevància de la font  
+Declaracions d’una sola persona: Quan la notícia es construeix al voltant de l’opinió o l’experiència d’una persona amb autoritat o interès periodístic (p. ex. columnes de John Carlin o entrevistes a Edu Sanjuan), no cal “contraposar-la” obligatòriament amb altres veus només pel fet de buscar equilibri. El criteri de pluralisme s’aplica de manera molt limitada a aquestes peces de declaracions individuals.
 
-3. Evita penalitzar notícies factuals o unifocals  
-No penalitzis peces curtes o informatives si reflecteixen una realitat concreta amb claredat i sense biaix excessiu. Per exemple, una notícia sobre una proposta legislativa d’un partit no requereix incloure opinions de l’oposició si la peça és descriptiva i no editorialitzada.
+3. Cobertura d’un fet aliè  
+Si la peça informa sobre una decisió, un programa o una composició creada per tercers (p. ex. la manca de paritat d’una conselleria o un debat intern ja existent), el mitjà descriu una realitat que no pot modificar. No penalitzis l’article per no “corregir” aquesta manca de pluralitat; centra’t en si s’hi contextualitza adequadament el fet i es dona veu a les parts implicades segons la seva rellevància.
 
-4. Reforça l’atenció al gènere  
-Adapta sempre l’exigència de pluralitat al gènere: articles d’opinió, entrevistes o perfils tenen lògiques pròpies. El pluralisme pot aparèixer com a marc interpretatiu, referències factuals o contrapreguntes.
+4. Selecció editorial pròpia  
+Quan la redacció és qui tria les fonts (p. ex. un reportatge sobre la Guia Macarfi on es decideix quins xefs opinen), sí que cal comprovar que la selecció no sigui injustificadament esbiaixada i que inclogui veus diverses (gènere, orígens, corrents d’opinió, etc.).
 
-5. Valoració flexible i matisada  
-Si una peça no inclou veus diverses però el seu enfocament justifica aquest recurs (per gènere, tema o estructura), pots valorar-la com a “Sí” amb comentari justificatiu (ex. “centrada en una acció concreta d’un actor polític rellevant”).
+5. Entrevistes i peces centrades en un protagonista  
+Les entrevistes o perfils se centren en la veu del protagonista; la manca d’altres veus no implica automàticament absència de pluralisme. Avalua, això sí, si l’entrevista aporta context, dades factuals o contrapreguntes que ajudin el lector a situar les declaracions.
+
+6. Neutralitat i pluralisme no són sinònims  
+Un text pot no ser neutral —pot assumir un to o una posició— però continuar sent plural si ofereix dades comprovables, antecedents i referències a perspectives alternatives pertinents.
+
+7. Veus implícites o indirectes  
+El pluralisme pot estar present encara que no hi hagi declaracions literals de totes les parts. Si el text inclou referències clares a actors diversos (ex. agricultors, turisme, autoritats locals) o explicita la voluntat de diàleg amb ells, això pot indicar pluralitat suficient dins el gènere informatiu. No penalitzis el text per no oferir una citació directa si el marc comunicatiu mostra consciència de les parts afectades.
+
+En la teva valoració, ofereix sempre una resposta matisada: indica fins a quin punt l’article aporta diverses perspectives o, si escau, justifica per què el criteri de pluralisme és poc rellevant per al gènere o l’enfocament concret de la peça.
 
 </directive_5>
-
 
 </execution_directive>
 

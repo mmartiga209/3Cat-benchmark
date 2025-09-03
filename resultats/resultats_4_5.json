@@ -12,7 +12,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut se centra en la seguretat viària general i no aborda qüestions específiques que afectin minories o grups desfavorits. Per tant, aquest criteri no és aplicable."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta una dimensió diferencial per gènere ni implica representacions o impactes específics per a homes o dones. El llenguatge utilitzat és neutre i no sexista, però no hi ha una dimensió de gènere rellevant per valorar aquest criteri."
     },
@@ -46,7 +46,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut del text no implica cap dimensió relacionada amb minories o grups desfavorits, per tant aquest criteri no és pertinent."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia informa sobre un partit masculí d'esport professional, sense implicacions específiques de gènere ni oportunitat per avaluar la paritat o equilibri."
     },
@@ -80,7 +80,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no fa referència a cap grup minoritari ni a situacions que impliquin desigualtats socials o econòmiques específiques."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No",
       "comentari": "La notícia només cita homes com a experts (Pol Morillas i Oriol Aspachs), sense incloure cap veu femenina ni fer ús explícit d'un llenguatge inclusiu."
     },
@@ -114,7 +114,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no fa referència ni té implicacions directes sobre minories o grups desfavorits."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text se centra exclusivament en el futbol masculí professional i en un jugador específic, sense implicacions ni referències a qüestions de gènere."
     },
@@ -148,7 +148,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no fa referència ni té implicacions específiques per a minories o grups desfavorits, per tant aquest criteri no és pertinent."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia informa sobre un fet concret (guanyador d'un concurs) sense implicacions específiques de gènere ni representació desigual que requereixi una anàlisi d'aquest criteri."
     },
@@ -182,7 +182,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no implica ni afecta directament cap grup minoritari o socialment desfavorit, per tant aquest criteri no és rellevant per a aquesta notícia."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia se centra exclusivament en dos protagonistes masculins específics per raons històriques i esportives, sense implicacions de gènere ni oportunitat per avaluar paritat o equilibri."
     },
@@ -216,7 +216,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no aborda qüestions relacionades amb minories o grups desfavorits de manera directa ni indirecta, per tant aquest criteri no és rellevant en aquest context."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta una dimensió de gènere explícita ni implícita, ni tampoc fa referència a qüestions que impliquin desigualtat o representació diferencial entre homes i dones."
     },
@@ -250,7 +250,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no aborda temàtiques relacionades amb minories o grups desfavorits, ni aquestes són rellevants per al tema tractat."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text no presenta una dimensió diferencial per gènere ni implica representació desigual o estereotips de gènere. El tema tractat no fa rellevant aquest criteri."
     },
@@ -284,7 +284,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no fa referència directa ni indirecta a grups minoritaris o desfavorits, ni la seva absència resulta problemàtica en aquest context."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text no presenta elements que permetin valorar la representació o l'equilibri de gènere, ja que només s'esmenta explícitament un portaveu masculí sense que això impliqui necessàriament un desequilibri significatiu."
     },
@@ -318,7 +318,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut del text no té relació directa ni indirecta amb minories o grups socialment desfavorits, per tant aquest criteri no és pertinent en aquest context."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia se centra exclusivament en un partit de futbol masculí i decisions arbitrals específiques, sense implicacions ni referències a qüestions de gènere o representació femenina."
     },
@@ -352,7 +352,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no aborda ni implica cap dimensió relacionada amb minories o grups desfavorits."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia se centra en un context específic del futbol masculí professional, sense implicacions directes sobre qüestions de gènere."
     },
@@ -386,7 +386,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no implica directament cap grup minoritari ni socialment desfavorit, sinó que se centra en qüestions ambientals i administratives."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta una dimensió de gènere rellevant ni implica representació desigual o estereotipada d'homes i dones."
     },
@@ -420,7 +420,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia no aborda temes relacionats amb minories ni grups desfavorits, per tant aquest criteri no és pertinent."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text informa sobre resultats econòmics i declaracions d'alts càrrecs d'una entitat financera, sense implicacions específiques de gènere ni representació desigual."
     },
@@ -454,7 +454,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no aborda temàtiques relacionades amb minories o grups desfavorits, ni aquestes són rellevants per al context informatiu presentat."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No",
       "comentari": "Tots els candidats mencionats són homes, sense cap referència a possibles candidates femenines ni ús explícit d'un llenguatge inclusiu o no sexista."
     },
@@ -488,7 +488,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no aborda temàtiques ni contextos on sigui pertinent o rellevant la representació o menció de minories."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia se centra en declaracions específiques d'un entrenador masculí i en un context esportiu concret, sense implicacions ni referències que facin rellevant la perspectiva de gènere."
     },
@@ -522,7 +522,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no fa referència explícita ni implícita a cap grup minoritari o socialment desfavorit, ni la temàtica ho requereix."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta cap dimensió específica relacionada amb el gènere ni implica representació desigual o estereotipada d'homes i dones."
     },
@@ -556,7 +556,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia no aborda temes que impliquin directament minories o grups desfavorits, sinó que se centra en infraestructures generals i serveis públics."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text no presenta una dimensió diferencial per gènere ni implica representació o impacte desigual entre homes i dones."
     },
@@ -590,7 +590,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia no tracta temes relacionats amb minories ni grups desfavorits, per tant aquest criteri no és rellevant en aquest context."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text presenta tant homes com dones protagonistes (Araceli, Nerea Sanfe, Xènia, Arnau Garcia, Marc Lesan), sense reproduir estereotips de gènere ni llenguatge sexista."
     },
@@ -624,7 +624,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut de la notícia no implica ni afecta directament cap grup minoritari o socialment desfavorit, per tant aquest criteri no és aplicable."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta cap dimensió relacionada amb el gènere ni implica diferències d'impacte o representació entre homes i dones, per tant aquest criteri no és aplicable."
     },
@@ -658,7 +658,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut de la notícia no té cap relació directa ni indirecta amb minories o grups desfavorits, sinó que tracta exclusivament d'una qüestió econòmica interna d'un equip esportiu professional."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia se centra exclusivament en un fet concret relacionat amb l'equip masculí del Barça i no aborda qüestions de gènere ni presenta implicacions diferencials per raó de gènere. Per tant, aquest criteri no és aplicable."
     },
@@ -692,7 +692,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut és una agenda esportiva sense implicacions específiques per a minories o grups desfavorits."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text inclou explícitament competicions femenines (lliga F de futbol i hoquei patins femení), contribuint a la visibilitat i equilibri de gènere."
     },
@@ -726,7 +726,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no fa referència a cap grup minoritari ni tracta temes on la representació de minories sigui rellevant."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No",
       "comentari": "El text només menciona cuiners homes (germans Torres, Joan Roca, Nandu Jubany, Ricard Camarena), sense cap referència explícita a dones xefs o restauradores, fet que evidencia manca d'equilibri de gènere."
     },
@@ -760,7 +760,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no tracta explícitament sobre minories o grups desfavorits, sinó sobre reivindicacions sectorials específiques del món agrícola."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No",
       "comentari": "El text només presenta veus masculines (dos homes pagesos), sense incloure cap perspectiva femenina ni fer visible la presència de dones en el sector agrícola."
     },
@@ -794,7 +794,7 @@
       "compliment": "Sí",
       "comentari": "El text menciona explícitament l'impacte negatiu que tindrien les restriccions sobre la ciutadania amb rendes més baixes, un grup socialment desfavorit, mostrant sensibilitat cap a aquesta minoria socioeconòmica."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta una dimensió específica relacionada amb el gènere ni implica representacions o impactes diferencials per raó de gènere."
     },
@@ -828,7 +828,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no implica ni afecta directament cap grup minoritari o socialment desfavorit."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia se centra exclusivament en un individu concret (Rafa Márquez) i no presenta cap dimensió relacionada amb el gènere ni amb representació o impacte diferencial per raó de gènere."
     },
@@ -862,7 +862,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut del text no té cap relació directa ni indirecta amb minories o grups desfavorits, per tant aquest criteri no és pertinent."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia informa sobre un partit masculí d'handbol, sense implicacions específiques de gènere ni oportunitat per avaluar la paritat o equilibri."
     },
@@ -896,7 +896,7 @@
       "compliment": "No aplica",
       "comentari": "El text se centra en problemes generals d'infraestructura ferroviària i no aborda qüestions específiques relacionades amb minories o grups desfavorits. Per tant, aquest criteri no és aplicable."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta cap dimensió específica relacionada amb el gènere ni implica representació o impacte diferencial per raó de gènere. Per tant, aquest criteri no és aplicable."
     },
@@ -930,7 +930,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia no aborda qüestions que afectin específicament minories o grups desfavorits, sinó que se centra en inversions generals en infraestructures metropolitanes."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text no presenta cap dimensió relacionada amb el gènere, ni en el contingut ni en les fonts citades, ja que es limita a informar sobre declaracions institucionals relatives a infraestructures."
     },
@@ -964,7 +964,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut de la notícia no té una dimensió explícita ni implícita relacionada amb minories o grups socialment desfavorits, per tant aquest criteri no és rellevant en aquest context."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia se centra exclusivament en declaracions d'un únic actor masculí (Josep Sánchez Llibre) i menciona altres actors polítics masculins (Pere Aragonès, Jaume Collboni). Tanmateix, el contingut no té una dimensió específica de gènere ni implica directament qüestions d'impacte diferencial per raó de gènere."
     },
@@ -998,7 +998,7 @@
       "compliment": "Sí",
       "comentari": "El text dona una atenció adequada i central a la minoria rohingya, destacant clarament les dificultats i discriminacions que pateixen, així com les accions solidàries per ajudar-les."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text promou clarament la igualtat de gènere, centrant-se en les protagonistes femenines, evitant estereotips i destacant el seu valor, amistat i capacitat d'acció en circumstàncies difícils."
     },
@@ -1032,7 +1032,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no implica directament cap grup minoritari ni socialment desfavorit, sinó que se centra en un sector econòmic específic."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta cap dimensió específica relacionada amb el gènere ni fa referència a persones o col·lectius en termes que impliquin desigualtat o estereotips de gènere."
     },
@@ -1066,7 +1066,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no fa referència explícita ni implícita a cap grup minoritari o socialment desfavorit, ni la temàtica ho requereix."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text utilitza un llenguatge no sexista i presenta una dona en un càrrec professional rellevant (fiscal), contribuint a una representació equilibrada i no estereotipada."
     },
@@ -1100,7 +1100,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no implica directament cap grup minoritari ni socialment desfavorit, sinó que se centra en una infraestructura viària d'interès general per als habitants de la zona."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta una dimensió específica de gènere ni implica diferències d'impacte o representació entre homes i dones."
     },
@@ -1134,7 +1134,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no té cap relació directa ni indirecta amb minories o grups desfavorits, per tant aquest criteri no és pertinent."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia informa sobre fets esportius específics d'un equip masculí, sense implicacions ni referències a qüestions de gènere."
     },
@@ -1168,7 +1168,7 @@
       "compliment": "Sí",
       "comentari": "El text dona visibilitat explícita a un col·lectiu minoritari i vulnerable, com són els alumnes amb necessitats educatives especials, i denuncia la manca de recursos per atendre'ls adequadament."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text no presenta una dimensió específica relacionada amb el gènere ni implica diferències de tractament o impacte entre homes i dones."
     },
@@ -1202,7 +1202,7 @@
       "compliment": "No aplica",
       "comentari": "El text no tracta específicament sobre minories o grups socialment desfavorits més enllà de la situació econòmica general de les dones ucraïneses implicades, per tant aquest criteri no és directament aplicable."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text utilitza un llenguatge respectuós i no sexista, presenta les dones implicades com a subjectes actius amb veu pròpia i evita reproduir estereotips de gènere, mostrant clarament les seves motivacions i circumstàncies personals."
     },
@@ -1236,7 +1236,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no aborda temàtiques relacionades amb minories o grups desfavorits, ni aquestes són rellevants per al context informatiu presentat."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta aspectes relacionats amb el gènere ni implica representació diferencial d'homes i dones o altres identitats de gènere."
     },
@@ -1270,7 +1270,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no aborda temàtiques relacionades amb minories o grups desfavorits, ni aquestes són rellevants per al context informatiu presentat."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No",
       "comentari": "El text només menciona homes com a possibles candidats i entrenadors, sense cap referència a dones o altres identitats de gènere, reproduint així una representació exclusivament masculina."
     },
@@ -1304,7 +1304,7 @@
       "compliment": "No",
       "comentari": "Tot i que el text tracta sobre persones en situació precària que viuen en barraques, no s'inclouen les seves veus ni es contextualitza adequadament la seva situació social i econòmica, invisibilitzant així les minories afectades."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text no presenta una dimensió específica relacionada amb el gènere ni implica diferències d'impacte o representació entre homes i dones."
     },
@@ -1338,7 +1338,7 @@
       "compliment": "No aplica",
       "comentari": "El text no aborda qüestions relacionades amb minories o grups socialment desfavorits, ni aquestes són rellevants per al contingut específic de la notícia."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta una dimensió específica de gènere ni implica representacions o impactes diferencials per raó de gènere."
     },
@@ -1372,7 +1372,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia no fa referència explícita ni implícita a cap minoria o grup socialment desfavorit, ni el context ho requereix específicament."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text no presenta una dimensió de gènere rellevant ni fa referència explícita a cap qüestió relacionada amb la representació o impacte diferencial per raó de gènere."
     },
@@ -1406,7 +1406,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no implica ni afecta directament cap grup minoritari o socialment desfavorit, per tant aquest criteri no és rellevant."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia informa sobre un partit masculí de tennis i un incident anecdòtic, sense implicacions específiques de gènere ni representació desigual."
     },
@@ -1440,7 +1440,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no aborda temàtiques relacionades amb minories o grups desfavorits, per tant aquest criteri no és pertinent en aquest context."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text no presenta una dimensió de gènere explícita ni implícita, ni tampoc fa referència a qüestions que impliquin desigualtat o representació diferencial per raó de gènere."
     },
@@ -1474,7 +1474,7 @@
       "compliment": "No aplica",
       "comentari": "El text no aborda qüestions específiques relacionades amb minories o grups desfavorits, ni aquestes són rellevants per al contingut tractat."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text inclou representació equilibrada d'homes i dones entre els signants del manifest, citant explícitament tant homes com dones, i no presenta estereotips ni llenguatge sexista."
     },
@@ -1508,7 +1508,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no aborda temàtiques ni contextos on sigui rellevant la representació o atenció específica a minories o grups desfavorits."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia se centra en un fet específic relacionat amb un jugador masculí del planter del Barça, sense implicacions ni contextos que facin rellevant la perspectiva de gènere."
     },
@@ -1542,7 +1542,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut del text no fa referència ni té implicacions directes sobre minories o grups socialment desfavorits."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia se centra exclusivament en declaracions polítiques entre dos homes, sense implicacions específiques de gènere ni oportunitat per valorar la paritat o equilibri de gènere."
     },
@@ -1576,7 +1576,7 @@
       "compliment": "Sí",
       "comentari": "El text aborda explícitament la situació de discriminació racial viscuda a Sud-àfrica durant l'apartheid i fa una comparació crítica amb la situació actual a Gaza, donant visibilitat a grups minoritaris oprimits."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text no tracta qüestions específiques relacionades amb el gènere ni presenta situacions on la paritat o l'equilibri de gènere siguin rellevants."
     },
@@ -1610,7 +1610,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no aborda temàtiques ni contextos on la representació o atenció a minories sigui pertinent o rellevant."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia se centra exclusivament en les declaracions personals d'un esportista masculí, sense implicacions específiques de gènere ni context que requereixi equilibri o paritat."
     },
@@ -1644,7 +1644,7 @@
       "compliment": "No aplica",
       "comentari": "El text no tracta temàtiques que impliquin directament minories o grups socialment desfavorits, sinó conflictes mediambientals i de convivència entre humans i animals."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text no presenta una dimensió explícita de gènere ni implica diferències significatives en representació o impacte entre homes i dones."
     },
@@ -1678,7 +1678,7 @@
       "compliment": "Sí",
       "comentari": "El text menciona explícitament petits agricultors i ramaders, col·lectius potencialment vulnerables davant la gestió de recursos hídrics. Això mostra una atenció adequada a grups econòmicament desfavorits afectats pel projecte."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta una dimensió específica relacionada amb el gènere ni implica representació o impacte diferencial per raó de gènere. Per tant, aquest criteri no és aplicable."
     },
@@ -1712,7 +1712,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia tracta exclusivament d'un esdeveniment esportiu sense cap dimensió relacionada amb minories o grups desfavorits."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text informa sobre un partit masculí de futbol sala, sense implicacions específiques de gènere ni oportunitat per abordar la paritat o equilibri de gènere."
     },
@@ -1746,7 +1746,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia tracta exclusivament sobre un llançament musical sense implicacions específiques per a minories o grups desfavorits."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No",
       "comentari": "El text només menciona artistes masculins, sense cap referència a dones artistes o col·laboradores, fet que podria indicar manca d'equilibri de gènere en la representació."
     },
@@ -1780,7 +1780,7 @@
       "compliment": "No aplica",
       "comentari": "El text no tracta específicament sobre minories o grups desfavorits, ni la seva absència resulta problemàtica en relació amb el contingut exposat."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text no presenta una dimensió diferencial per gènere ni fa referència explícita a qüestions de gènere, per tant aquest criteri no és aplicable."
     },
@@ -1814,7 +1814,7 @@
       "compliment": "Sí",
       "comentari": "El text atén adequadament la realitat dels municipis rurals petits, que poden considerar-se grups socialment desfavorits per la despoblació i manca de recursos, mitjançant programes específics per fixar-hi població."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta una dimensió diferencial per gènere ni fa referència explícita a qüestions de gènere o representació desigual."
     },
@@ -1848,7 +1848,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut informatiu es limita a resultats esportius i no implica cap dimensió relacionada amb minories o grups desfavorits."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia informa exclusivament sobre resultats d'equips masculins en una competició específica, sense abordar qüestions de gènere ni presentar oportunitats per avaluar la paritat."
     },
@@ -1882,7 +1882,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut de la notícia no implica directament cap grup minoritari ni col·lectiu socialment desfavorit."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text presenta una candidata dona com a protagonista principal i evita estereotips de gènere, fent ús d'un llenguatge neutre i inclusiu."
     },
@@ -1916,7 +1916,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut se centra en aspectes tècnics i de governança de l'aigua, sense que la dimensió de minories o grups desfavorits sigui rellevant en aquest context."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No",
       "comentari": "Totes les fonts citades explícitament són homes, sense presència femenina visible ni referència a veus femenines, fet que implica manca d'equilibri de gènere en la representació de fonts."
     },
@@ -1950,7 +1950,7 @@
       "compliment": "No aplica",
       "comentari": "El text no tracta temes relacionats amb minories o grups desfavorits, sinó que informa sobre un incident específic en un context esportiu."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia descriu un incident puntual en un partit masculí sense implicacions específiques de gènere ni representació desigual."
     },
@@ -1984,7 +1984,7 @@
       "compliment": "No aplica",
       "comentari": "El text tracta sobre la situació militar i política del conflicte entre Rússia i Ucraïna, sense que la dimensió de minories o grups desfavorits sigui rellevant en aquest context específic."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia aborda qüestions militars i polítiques generals sense implicacions específiques de gènere ni representació diferencial d'homes i dones."
     },
@@ -2018,7 +2018,7 @@
       "compliment": "No aplica",
       "comentari": "El text no tracta temàtiques que impliquin directament minories o grups desfavorits, sinó que es limita a informar sobre una petició administrativa d'un col·lectiu professional concret."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta cap dimensió específica relacionada amb el gènere, ni en termes d'impacte diferencial, representació o llenguatge utilitzat."
     },
@@ -2052,7 +2052,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut del text no fa referència explícita ni implícita a cap grup minoritari ni a col·lectius desfavorits, ni tampoc és rellevant en aquest context."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta cap dimensió específica relacionada amb el gènere ni fa referència a qüestions que impliquin impactes diferencials per raó de gènere."
     },
@@ -2086,7 +2086,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut de la notícia no té una dimensió explícita relacionada amb minories o grups desfavorits, per tant aquest criteri no és rellevant en aquest context."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta una dimensió específica relacionada amb el gènere ni implica representacions o impactes diferencials per raó de gènere."
     },
@@ -2120,7 +2120,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no implica ni afecta directament cap grup minoritari o socialment desfavorit."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia tracta exclusivament sobre un torneig masculí específic, sense implicacions ni referències a qüestions de gènere."
     },
@@ -2154,7 +2154,7 @@
       "compliment": "Sí",
       "comentari": "El text menciona explícitament que es desenvoluparan ajuts per a persones en situació de vulnerabilitat, garantint així que cap ciutadà quedi exclòs per motius econòmics."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta implicacions específiques relacionades amb el gènere ni fa referència a qüestions que puguin generar desigualtats o estereotips de gènere."
     },
@@ -2188,7 +2188,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no implica directament cap grup minoritari ni socialment desfavorit, per tant aquest criteri no és rellevant en aquest context."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta una dimensió diferencial per gènere ni fa referència a aspectes relacionats amb la representació o impacte desigual entre homes i dones."
     },
@@ -2222,7 +2222,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia tracta sobre un acord empresarial i no implica directament cap grup minoritari ni socialment desfavorit."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text no presenta cap aspecte relacionat amb el gènere ni ofereix informació que faci rellevant aquest criteri."
     },
@@ -2256,7 +2256,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia no aborda temes relacionats amb minories o grups desfavorits, ni aquests són rellevants per al contingut."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text informa sobre una decisió esportiva específica relacionada amb l'entrenador del Barça, sense implicacions ni referències a qüestions de gènere."
     },
@@ -2290,7 +2290,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia tracta sobre una operació policial contra una organització criminal específica, sense que la dimensió de minories o grups desfavorits sigui rellevant per al contingut."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text no presenta una dimensió diferencial per gènere ni fa referència explícita a qüestions de gènere, per tant aquest criteri no és aplicable."
     },
@@ -2324,7 +2324,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no tracta temes específics que impliquin directament minories o grups desfavorits, per tant aquest criteri no és rellevant en aquest context."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text presenta una candidata dona com a protagonista principal i inclou referències equilibrades a homes i dones en les candidatures territorials, sense reproduir estereotips ni llenguatge sexista."
     },
@@ -2358,7 +2358,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia tracta sobre una decisió tècnica i administrativa relacionada amb infraestructures energètiques, sense implicacions específiques per a minories o grups desfavorits."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text no presenta cap dimensió relacionada amb el gènere, ni en protagonistes, ni en impactes diferencials, ni en llenguatge o representació."
     },
@@ -2392,7 +2392,7 @@
       "compliment": "No aplica",
       "comentari": "El text tracta sobre emergència climàtica i model econòmic, sense que la dimensió específica de minories o grups desfavorits sigui rellevant o explícitament implicada en aquest context."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No",
       "comentari": "El text només cita explícitament dues persones, ambdues homes (Joan Buades i Jaume Osete), sense incloure cap veu femenina ni fer ús explícit d'un llenguatge inclusiu o no sexista."
     },
@@ -2426,7 +2426,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia no tracta temes que impliquin directament minories o grups desfavorits, per tant aquest criteri no és aplicable."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No",
       "comentari": "El text només menciona homes com a integrants del grup criminal, sense cap referència explícita a dones o altres identitats de gènere. Tot i que això pot reflectir la realitat del cas concret, no hi ha cap element que promogui explícitament la igualtat de gènere o que eviti possibles estereotips."
     },
@@ -2460,7 +2460,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut del text no fa referència ni té implicacions directes sobre minories o grups desfavorits."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta cap dimensió específica relacionada amb el gènere ni implica representació desigual o estereotips de gènere."
     },
@@ -2494,7 +2494,7 @@
       "compliment": "No aplica",
       "comentari": "El text no tracta temàtiques que impliquin directament minories o grups socialment desfavorits, per tant aquest criteri no és aplicable."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text no presenta una dimensió explícita relacionada amb qüestions de gènere ni fa referència a aspectes diferencials entre homes i dones, per tant aquest criteri no és aplicable."
     },
@@ -2528,7 +2528,7 @@
       "compliment": "No aplica",
       "comentari": "El text no tracta temàtiques específiques que impliquin directament minories o grups desfavorits, sinó que es limita a informar sobre un acte polític electoral, per tant aquest criteri no és aplicable."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text presenta una candidata dona com a protagonista principal, a més d'incloure referències equilibrades a figures polítiques tant femenines (Yolanda Díaz) com masculines (Ernest Urtasun). No s'observen estereotips de gènere ni llenguatge sexista."
     },
@@ -2562,7 +2562,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no tracta cap tema relacionat amb minories o grups desfavorits, per tant aquest criteri no és aplicable."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No",
       "comentari": "El text reforça indirectament estereotips de gènere en destacar aspectes superficials com la compra de roba de marca amb el primer sou d'influencer, sense aportar cap altra dimensió més profunda o equilibrada sobre la protagonista femenina."
     },
@@ -2596,7 +2596,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut del text no fa referència ni té implicacions directes sobre minories o grups socialment desfavorits."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text no presenta cap element que impliqui una dimensió diferencial per raó de gènere ni fa ús d'un llenguatge sexista o estereotipat."
     },
@@ -2630,7 +2630,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no implica directament cap grup minoritari ni col·lectiu socialment desfavorit."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text no fa referència explícita ni implícita a qüestions de gènere ni presenta elements que permetin valorar aquest criteri."
     },
@@ -2664,7 +2664,7 @@
       "compliment": "Sí",
       "comentari": "Tot i mencionar l'origen grupal llatí de l'organització, ho fa de manera factual i sense estigmatitzar ni generalitzar sobre tota la comunitat llatina."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no inclou referències a persones concretes ni implica cap dimensió diferencial per raó de gènere."
     },
@@ -2698,7 +2698,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no fa referència directa ni indirecta a minories o grups desfavorits específics, per tant aquest criteri no és aplicable."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text inclou com a protagonista principal una dona, Laia Estrada, i no presenta cap estereotip de gènere ni llenguatge sexista."
     },
@@ -2732,7 +2732,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut de la notícia no tracta qüestions específiques que impliquin directament minories o grups desfavorits, per tant aquest criteri no és rellevant en aquest context."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text inclou de manera equilibrada veus masculines i femenines (Pere Aragonès, Laura Vilagrà, Marta Rovira), sense reproduir estereotips de gènere ni fer ús de llenguatge sexista."
     },
@@ -2766,7 +2766,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia no aborda temàtiques relacionades amb minories ni grups desfavorits, per tant aquest criteri no és pertinent."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No",
       "comentari": "El text només fa referència explícita a futbolistes masculins i no menciona ni contextualitza la situació del futbol femení o altres identitats de gènere, tot i que el context esportiu podria permetre-ho."
     },
@@ -2800,7 +2800,7 @@
       "compliment": "Sí",
       "comentari": "El text fa referència explícita a discursos racistes i xenòfobs, mostrant preocupació per l'impacte negatiu sobre minories ètniques o migrants."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text no aborda qüestions específiques relacionades amb el gènere ni presenta elements que permetin valorar aquest criteri."
     },
@@ -2834,7 +2834,7 @@
       "compliment": "No aplica",
       "comentari": "El text no tracta temàtiques que impliquin directament minories o grups socialment desfavorits, per tant aquest criteri no és rellevant en aquest context."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text presenta una dona com a protagonista principal (Laia Estrada), sense reproduir estereotips de gènere ni fer ús d'un llenguatge sexista."
     },
@@ -2868,7 +2868,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no aborda qüestions relacionades amb minories o grups desfavorits, per tant aquest criteri no és pertinent en aquest context."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia se centra en declaracions polítiques específiques de líders masculins, sense implicacions directes sobre qüestions de gènere ni representació diferencial."
     },
@@ -2902,7 +2902,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut del text no implica ni afecta directament cap grup minoritari o socialment desfavorit. És una notícia esportiva sense implicacions socials explícites."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia se centra exclusivament en un equip masculí de futbol professional i en una intervenció tècnica específica. No hi ha cap element que faci rellevant o aplicable el criteri de paritat o equilibri de gènere en aquest context."
     },
@@ -2936,7 +2936,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut del reportatge no implica directament minories o grups socialment desfavorits més enllà del col·lectiu específic dels pagesos, que no es considera una minoria en el sentit habitual del terme."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No",
       "comentari": "El text només menciona explícitament homes com a protagonistes i líders de la revolta pagesa (Toni Martínez, Jordi Ginestà), sense incloure cap veu femenina ni fer referència explícita a la participació de dones."
     },
@@ -2970,7 +2970,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut se centra en problemes tècnics i polítics de la xarxa ferroviària, sense que hi hagi una dimensió rellevant relacionada amb minories o grups desfavorits."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta una dimensió específica relacionada amb el gènere ni implica representacions o impactes diferencials per raó de gènere."
     },
@@ -3004,7 +3004,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut del text no implica directament cap grup minoritari ni tracta temes que afectin específicament minories o col·lectius desfavorits."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text no presenta cap dimensió relacionada amb el gènere ni fa referència a qüestions que impliquin desigualtat o representació diferencial entre homes i dones."
     },
@@ -3038,7 +3038,7 @@
       "compliment": "Sí",
       "comentari": "La notícia aborda explícitament la situació de persones migrants en situació irregular, descrivint les condicions d'explotació i vulnerabilitat a què eren sotmeses."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text no presenta elements que impliquin una dimensió diferencial per raó de gènere ni fa referència explícita a cap aspecte relacionat amb el gènere."
     },
@@ -3072,7 +3072,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no implica ni afecta directament cap grup minoritari o socialment desfavorit, per tant aquest criteri no és rellevant en aquest context."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta cap dimensió diferencial per raó de gènere ni implica representacions o estereotips de gènere."
     },
@@ -3106,7 +3106,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut de la notícia no fa referència explícita ni implícita a minories o grups desfavorits, ni la seva absència resulta problemàtica en aquest context."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text inclou tant homes com dones en posicions rellevants (Feijóo, Montserrat), sense reproduir estereotips de gènere evidents ni fer ús de llenguatge sexista."
     },
@@ -3140,7 +3140,7 @@
       "compliment": "Sí",
       "comentari": "El text menciona explícitament la situació de minories nacionals sense estat a Europa, destacant la seva possible manca de representació en cas d'un gir autoritari."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "La notícia inclou tant homes com dones en les intervencions i menciona explícitament la participació femenina (Neus Torbisco, Laura Borràs), sense reproduir estereotips de gènere."
     },
@@ -3174,7 +3174,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no tracta qüestions que impliquin directament o indirectament minories o grups desfavorits, per la qual cosa aquest criteri no és rellevant."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta una dimensió de gènere explícita ni implícita, ni tampoc fa referència a qüestions que impliquin desigualtat o representació diferencial per raó de gènere."
     },
@@ -3208,7 +3208,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia descriu exclusivament la presència de personalitats en un esdeveniment esportiu. No hi ha cap dimensió relacionada amb minories o grups desfavorits que sigui pertinent en aquest context."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text inclou tant homes com dones en posicions rellevants (per exemple, la ministra Pilar Alegría), sense reproduir estereotips de gènere ni fer ús d'un llenguatge sexista."
     },
@@ -3242,7 +3242,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no aborda temàtiques relacionades amb minories o grups desfavorits, per tant aquest criteri no és pertinent."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text utilitza un llenguatge neutre i inclusiu, i presenta tant homes com dones en rols rellevants (per exemple, Virginia Ensesa com a presidenta de l'associació)."
     },
@@ -3276,7 +3276,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut del text no implica directament cap grup minoritari ni socialment desfavorit, per tant aquest criteri no és aplicable."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text utilitza un llenguatge neutre i respectuós, sense reproduir estereotips de gènere ni fer un tractament discriminatori o desigual entre homes i dones."
     },
@@ -3310,7 +3310,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut de la notícia no implica ni afecta directament cap grup minoritari o socialment desfavorit."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia se centra en un conflicte administratiu entre dos municipis i no presenta cap dimensió específica relacionada amb el gènere ni amb la representació o impacte diferencial per raó de gènere."
     },
@@ -3344,7 +3344,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut informatiu se centra en dades d'audiència i no aborda temàtiques on la representació o atenció a minories sigui pertinent."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text menciona explícitament esdeveniments esportius femenins (Copa de la Reina, Lliga de Campions femenina) amb protagonisme destacat, contribuint a la visibilitat i equilibri de gènere."
     },
@@ -3378,7 +3378,7 @@
       "compliment": "No aplica",
       "comentari": "El text se centra en un cas judicial específic relacionat amb activistes independentistes i no implica directament minories socials o econòmiques desfavorides."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia tracta un cas judicial concret sense implicacions específiques de gènere ni representació desigual d'homes i dones. No hi ha elements que facin rellevant aquest criteri."
     },
@@ -3412,7 +3412,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut del text no implica directament cap grup minoritari ni socialment desfavorit, per tant aquest criteri no és rellevant en aquest context."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta una dimensió diferencial per gènere ni fa referència explícita a qüestions de gènere o representació desigual entre homes i dones."
     },
@@ -3446,7 +3446,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no aborda temàtiques relacionades amb minories o grups desfavorits, per tant aquest criteri no és pertinent."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia se centra exclusivament en el futbol masculí professional, sense implicacions directes sobre qüestions de gènere o representació femenina."
     },
@@ -3480,7 +3480,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no implica directament cap grup minoritari o socialment desfavorit, sinó que se centra en la petita pagesia i la seva relació amb l'administració local."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text no presenta cap dimensió específica relacionada amb el gènere ni fa referència a persones concretes o col·lectius diferenciats per gènere."
     },
@@ -3514,7 +3514,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut se centra en qüestions empresarials i financeres sense relació directa amb minories o grups desfavorits."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No",
       "comentari": "El text només menciona homes en càrrecs directius i no inclou cap referència a dones o altres identitats de gènere, reflectint una manca d'equilibri en la representació."
     },
@@ -3548,7 +3548,7 @@
       "compliment": "No aplica",
       "comentari": "El text no tracta específicament sobre minories o grups socialment desfavorits, sinó sobre activistes i periodistes perseguits per motius polítics."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text visibilitza clarament el paper destacat d'una dona periodista en la denúncia d'agressions sexuals i evita estereotips de gènere, fent ús d'un llenguatge neutre i respectuós."
     },
@@ -3582,7 +3582,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut de la notícia no implica directament cap grup minoritari ni socialment desfavorit, per tant aquest criteri no és rellevant en aquest context."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta una dimensió de gènere rellevant, ja que tracta exclusivament sobre decisions empresarials i econòmiques sense implicacions específiques de gènere."
     },
@@ -3616,7 +3616,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia tracta exclusivament sobre canvis esportius en un club, sense implicacions específiques per a minories o grups desfavorits."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text tracta específicament sobre un equip femení, amb protagonisme clar de dones esportistes i directives, sense estereotips ni llenguatge sexista."
     },
@@ -3650,7 +3650,7 @@
       "compliment": "No aplica",
       "comentari": "El text no fa referència explícita ni implícita a cap grup minoritari o socialment desfavorit específic, per tant aquest criteri no és rellevant en aquest context."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta cap dimensió específica relacionada amb el gènere ni fa referència a qüestions que impliquin desigualtat o representació diferencial entre homes i dones."
     },
@@ -3684,7 +3684,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut de la notícia no implica directament cap grup minoritari ni socialment desfavorit, sinó que se centra en una qüestió urbanística i mediambiental local."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text inclou representació equilibrada de gènere en les fonts citades, mencionant explícitament tant una dona (Sandra Zaragoza) com un home (Josep Antoni Navarro) en posicions de lideratge polític, sense reproduir estereotips ni llenguatge sexista."
     },
@@ -3718,7 +3718,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia no tracta cap tema relacionat amb minories o grups desfavorits, ni la seva absència resulta problemàtica en aquest context."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text informa sobre dos estudiants específics amb les notes més altes, sense implicacions de gènere ni reproducció d'estereotips o desigualtats."
     },
@@ -3752,7 +3752,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia tracta sobre programació infantil d'entreteniment i no aborda temàtiques específiques relacionades amb minories o grups desfavorits."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text destaca explícitament la presència de personatges femenins rellevants, com Carlota Bruna i protagonistes femenines en les pel·lícules de Ghibli, promovent així un equilibri de gènere positiu."
     },
@@ -3786,7 +3786,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut de la notícia no implica ni afecta directament cap grup minoritari o socialment desfavorit, per tant aquest criteri no és rellevant en aquest context."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia se centra exclusivament en la figura d'un entrenador masculí i la seva relació amb el club. No hi ha cap aspecte relacionat amb qüestions de gènere ni representació d'altres identitats de gènere."
     },
@@ -3820,7 +3820,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no aborda temàtiques relacionades amb minories o grups desfavorits, per tant aquest criteri no és pertinent en aquest context."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No",
       "comentari": "El text només menciona homes (jugadors, entrenador, exjugador), sense cap referència a dones ni ús explícit d'un llenguatge inclusiu. Tot i que el context esportiu masculí pot justificar parcialment aquesta absència, no hi ha cap esforç visible per promoure la igualtat o evitar exclusivament referències masculines."
     },
@@ -3854,7 +3854,7 @@
       "compliment": "Sí",
       "comentari": "El text fa referència explícita als menors migrants no acompanyats, un col·lectiu especialment vulnerable, i menciona la necessitat d'una resposta solidària per part de les comunitats autònomes."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text no aborda qüestions específiques relacionades amb el gènere ni presenta elements que facin rellevant aquest criteri en aquest context concret."
     },
@@ -3888,7 +3888,7 @@
       "compliment": "Sí",
       "comentari": "El text dona una atenció adequada a les persones migrants, un col·lectiu socialment desfavorit, destacant les seves dificultats i patiments, així com les accions concretes d'ajuda impulsades per l'arquebisbe."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text no aborda qüestions específiques relacionades amb el gènere ni presenta situacions on la dimensió de gènere sigui rellevant per al contingut o context."
     },
@@ -3922,7 +3922,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut del text no fa referència explícita ni implícita a grups minoritaris o socialment desfavorits, ni la temàtica ho requereix específicament."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta una dimensió diferencial per raó de gènere ni fa referència a aspectes relacionats amb la representació o impacte desigual entre homes i dones."
     },
@@ -3956,7 +3956,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia tracta sobre l'impacte del turisme a Girona i no aborda explícitament qüestions relacionades amb minories o grups desfavorits."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text no presenta cap dimensió específica relacionada amb el gènere ni fa referència a qüestions que impliquin desigualtat o representació diferencial entre homes i dones."
     },
@@ -3990,7 +3990,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no implica ni afecta directament cap grup minoritari o socialment desfavorit, per tant aquest criteri no és pertinent."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No",
       "comentari": "El text només menciona ciclistes masculins i no fa cap referència a la participació femenina ni utilitza un llenguatge inclusiu, reproduint així una representació exclusivament masculina."
     },
@@ -4024,7 +4024,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut de la notícia no implica directament cap grup minoritari ni socialment desfavorit, sinó que se centra en actors polítics específics i les seves estratègies."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No",
       "comentari": "El text menciona majoritàriament homes com a protagonistes polítics (Puigdemont, Junqueras, Comín, Puig, Turull, Llach, Antich, Riera, Fernández), amb una presència molt limitada de dones (només Marta Vilaret i Dolors Feliu). No s'observa un esforç explícit per equilibrar la representació de gènere."
     },
@@ -4058,7 +4058,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut de la notícia no té relació directa amb minories o grups socialment desfavorits, per tant aquest criteri no és pertinent."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta una dimensió diferencial per gènere ni implica representació o impacte desigual entre homes i dones."
     },
@@ -4092,7 +4092,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no aborda qüestions relacionades amb minories o grups desfavorits, ni aquestes són rellevants per al context específic del text."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia se centra en líders polítics específics i en qüestions diplomàtiques sense implicacions directes sobre qüestions de gènere ni representació diferencial."
     },
@@ -4126,7 +4126,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut del text no tracta temes que impliquin directament minories o grups desfavorits, per la qual cosa aquest criteri no és aplicable."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no aborda qüestions específiques de gènere ni presenta situacions on la representació o impacte diferencial per gènere sigui rellevant, per tant aquest criteri no és aplicable."
     },
@@ -4160,7 +4160,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia tracta exclusivament d'un partit amistós de futbol sense cap dimensió relacionada amb minories o grups desfavorits."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text informa sobre un partit de futbol masculí, sense implicacions específiques de gènere ni oportunitat per avaluar la paritat o equilibri."
     },
@@ -4194,7 +4194,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia no aborda cap aspecte relacionat amb minories o grups desfavorits, ni aquesta dimensió és rellevant en aquest context."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text no presenta cap aspecte relacionat amb el gènere ni implica representació o impacte diferencial per raó de gènere."
     },
@@ -4228,7 +4228,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia tracta sobre una operació policial contra una organització específica, sense implicacions directes sobre minories o grups desfavorits."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta una dimensió de gènere rellevant ni implica representació desigual o estereotipada d'homes i dones."
     },
@@ -4262,7 +4262,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no aborda qüestions relacionades amb minories o grups desfavorits, ni aquestes són rellevants per al context informatiu presentat."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No",
       "comentari": "Tot i que s'esmenta Laura Borràs, la majoria de veus i protagonistes citats són homes, sense evidència d'un esforç explícit per equilibrar la representació de gènere."
     },
@@ -4296,7 +4296,7 @@
       "compliment": "No aplica",
       "comentari": "El text no tracta específicament sobre minories socials o econòmiques, sinó sobre un cas concret d'infiltració policial i les seves conseqüències personals i polítiques."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text aborda explícitament una problemàtica amb perspectiva de gènere, dona veu directa a les dones afectades i utilitza un llenguatge respectuós i no sexista."
     },
@@ -4330,7 +4330,7 @@
       "compliment": "No aplica",
       "comentari": "El text no fa referència explícita ni implícita a cap minoria o grup social desfavorit, ni la situació narrada ho requereix."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta cap dimensió diferencial per raó de gènere ni fa referència explícita a homes o dones de manera desequilibrada o estereotipada."
     },
@@ -4364,7 +4364,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia no tracta temes que impliquin directament minories o grups desfavorits, per tant aquest criteri no és rellevant en aquest context."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El contingut informatiu no presenta cap dimensió específica relacionada amb el gènere ni fa referència explícita a persones o col·lectius en termes de gènere."
     },
@@ -4398,7 +4398,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia no aborda explícitament qüestions relacionades amb minories o grups desfavorits, ni la seva absència resulta problemàtica en aquest context."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text no presenta una dimensió diferencial per gènere ni inclou elements que facin rellevant aquest criteri."
     },
@@ -4432,7 +4432,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut se centra en l'àmbit esportiu i en jugadors específics del Barça. No hi ha cap dimensió relacionada amb minories o grups desfavorits que sigui pertinent en aquest context."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No",
       "comentari": "El text només fa referència a jugadors masculins i no menciona cap jugadora ni equip femení. Tot i que el tema central és el futbol masculí, no hi ha cap menció ni contextualització que reflecteixi la realitat del futbol femení o que promogui explícitament la igualtat de gènere."
     },
@@ -4466,7 +4466,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut del text no implica ni fa referència a cap grup minoritari o socialment desfavorit, per tant aquest criteri no és pertinent."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No",
       "comentari": "El text només menciona una dona (Meritxell Serret) de manera molt breu i secundària, mentre que el protagonista i totes les referències principals són masculines. Tot i que això pot reflectir la realitat del nomenament, no s'observa cap esforç explícit per equilibrar o contextualitzar la representació de gènere."
     },
@@ -4500,7 +4500,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia tracta sobre una activitat cultural literària sense implicacions específiques per a minories o grups desfavorits, per tant aquest criteri no és rellevant en aquest context."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No",
       "comentari": "El text només menciona autors masculins (Josep Pla, Josep Maria de Segarra, Josep Vicenç Foix, Raül Garrigasait, Ramon Valls) sense cap referència a autores femenines, fet que evidencia una manca d'equilibri de gènere en la selecció presentada."
     },
@@ -4534,7 +4534,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut de la notícia no implica ni afecta directament cap grup minoritari o socialment desfavorit, per tant, aquest criteri no és pertinent en aquest context."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia informa sobre una reunió institucional específica entre dos homes que ocupen càrrecs polítics. No hi ha cap element que impliqui una dimensió diferencial de gènere ni que permeti valorar la paritat o l'equilibri de gènere."
     },
@@ -4568,7 +4568,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia no tracta específicament sobre minories o grups desfavorits, sinó sobre la política lingüística general aplicada als negocis de la ciutat."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text utilitza un llenguatge inclusiu i equilibrat, amb protagonisme clar d'una dona (la regidora Núria Riquelme), sense reproduir estereotips de gènere ni desigualtats evidents."
     },
@@ -4602,7 +4602,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut del text no té cap relació directa ni indirecta amb minories o grups desfavorits, per tant aquest criteri no és pertinent."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia tracta exclusivament sobre un partit masculí de bàsquet professional, sense implicacions específiques de gènere ni oportunitat per avaluar la paritat."
     },
@@ -4636,7 +4636,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut del text no implica directament cap grup minoritari ni té rellevància específica per a col·lectius desfavorits."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No",
       "comentari": "El text només menciona homes en càrrecs de responsabilitat i no inclou cap referència a dones ni a altres identitats de gènere, reflectint una manca d'equilibri en la representació."
     },
@@ -4670,7 +4670,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia tracta sobre un crim concret sense implicacions directes o explícites sobre minories o grups socialment desfavorits, per tant aquest criteri no és aplicable."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text no presenta una dimensió diferencial per gènere ni implica qüestions específiques relacionades amb la representació o impacte desigual entre homes i dones."
     },
@@ -4704,7 +4704,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia tracta sobre impostos turístics i habitatge públic sense implicacions directes o indirectes específiques per a minories o grups desfavorits."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text informa sobre decisions polítiques i administratives sense implicacions específiques de gènere ni presència d'estereotips o biaixos sexistes."
     },
@@ -4738,7 +4738,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia no tracta explícitament qüestions relacionades amb minories o grups desfavorits, sinó que informa sobre un acord institucional general sobre habitatge públic."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text informa sobre un acord institucional sense implicacions específiques de gènere ni referències que permetin valorar aquest criteri."
     },
@@ -4772,7 +4772,7 @@
       "compliment": "Sí",
       "comentari": "El text dona atenció explícita i adequada a la situació dels palestins com a grup socialment desfavorit, destacant les seves condicions de vida, vulnerabilitat i manca de drets."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text no presenta una dimensió específica de gènere ni implica un impacte diferencial clar entre homes i dones, per tant aquest criteri no és aplicable."
     },
@@ -4806,7 +4806,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut informatiu no tracta qüestions que impliquin directament minories o grups desfavorits, per la qual cosa aquest criteri no és aplicable."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text utilitza un llenguatge inclusiu ('actors i actrius') i no presenta estereotips de gènere ni desequilibris evidents en la representació de gènere."
     },
@@ -4840,7 +4840,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia no tracta cap tema que impliqui directament o indirectament minories o grups desfavorits, per tant aquest criteri no és aplicable."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No",
       "comentari": "El text només recull veus masculines (Pepe Álvarez i Camil Ros) i no fa cap referència a dones o altres identitats de gènere, mostrant una manca d'equilibri en la representació."
     },
@@ -4874,7 +4874,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut se centra en processos interns d'un partit polític, sense relació directa amb grups minoritaris o desfavorits."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No",
       "comentari": "Tot i esmentar Marta Rovira, la notícia se centra principalment en figures masculines (Oriol Junqueras, Alfred Bosch) i no mostra equilibri explícit en la representació de gènere ni en les fonts citades."
     },
@@ -4908,7 +4908,7 @@
       "compliment": "Sí",
       "comentari": "El text dona visibilitat explícita a un barri amb població econòmicament desfavorida i amb problemes estructurals, destacant les seves reivindicacions i necessitats específiques."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text no aborda explícitament qüestions de gènere ni presenta situacions on la dimensió de gènere sigui rellevant per al contingut o context."
     },
@@ -4942,7 +4942,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no implica ni afecta directament cap grup minoritari o desfavorit, per la qual cosa aquest criteri no és rellevant."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "La notícia inclou tant homes com dones en càrrecs rellevants (Pere Navarro i Blanca Sorigué), sense reproduir estereotips ni llenguatge sexista."
     },
@@ -4976,7 +4976,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut de la notícia no implica directament cap grup minoritari ni socialment desfavorit, sinó que se centra en qüestions econòmiques i administratives relacionades amb un esdeveniment esportiu."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta una dimensió específica relacionada amb el gènere, ni en el seu contingut ni en les fonts citades, per la qual cosa aquest criteri no és pertinent en aquest context."
     },
@@ -5010,7 +5010,7 @@
       "compliment": "Sí",
       "comentari": "El text menciona explícitament que la manifestació es reivindica com a antiracista, fet que implica una atenció explícita a minories ètniques o racials, mostrant sensibilitat cap a grups potencialment desfavorits."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no fa referència explícita a qüestions de gènere ni presenta elements que permetin valorar aquest criteri de manera pertinent."
     },
@@ -5044,7 +5044,7 @@
       "compliment": "Sí",
       "comentari": "El text dona visibilitat explícita a un grup socialment desfavorit, els treballadors migrants del sud d'Espanya, destacant les seves condicions precàries i la invisibilització històrica que van patir durant el franquisme."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text no presenta una dimensió explícita de gènere ni fa referència directa a qüestions relacionades amb la representació o impacte diferencial per raó de gènere."
     },
@@ -5078,7 +5078,7 @@
       "compliment": "No",
       "comentari": "El text no ofereix cap veu ni perspectiva de les minories afectades per les declaracions de l'alcalde, ni tampoc contextualitza o qüestiona les afirmacions que podrien estigmatitzar col·lectius minoritaris, com ara les persones d'origen marroquí."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta una dimensió explícita relacionada amb qüestions de gènere ni ofereix elements suficients per valorar aquest criteri."
     },
@@ -5112,7 +5112,7 @@
       "compliment": "No",
       "comentari": "La notícia tracta explícitament sobre menors migrants, un col·lectiu vulnerable, però no inclou cap veu ni perspectiva que representi o defensi els interessos d'aquest grup, invisibilitzant així les seves necessitats i drets."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta una dimensió explícita relacionada amb qüestions de gènere ni implica diferències específiques entre homes i dones."
     },
@@ -5146,7 +5146,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no implica ni afecta directament cap grup minoritari o socialment desfavorit."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta cap dimensió relacionada amb el gènere ni implica representació o impacte diferencial per raó de gènere."
     },
@@ -5180,7 +5180,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no aborda ni implica directament cap grup minoritari o socialment desfavorit, sinó que se centra en qüestions de mobilitat i seguretat viària."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text utilitza un llenguatge neutre i inclusiu, i presenta com a font principal una dona (l'alcaldessa), sense reproduir estereotips ni desequilibris de gènere."
     },
@@ -5214,7 +5214,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no implica ni afecta directament cap grup minoritari o socialment desfavorit, per tant aquest criteri no és rellevant en aquest context."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no fa referència explícita ni implícita a qüestions de gènere, ni presenta cap impacte diferencial per raó de gènere."
     },
@@ -5248,7 +5248,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia no tracta qüestions relacionades amb minories o grups desfavorits, sinó que es limita a anunciar un càsting per a un programa d'entreteniment."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text no presenta cap element que impliqui una dimensió diferencial per gènere ni fa referència explícita a qüestions de representació o llenguatge sexista."
     },
@@ -5282,7 +5282,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia no tracta cap tema específicament relacionat amb minories o grups desfavorits, per la qual cosa aquest criteri no és aplicable."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text presenta una dona com a protagonista principal (la periodista Griselda Pastor), sense reproduir estereotips de gènere ni fer ús de llenguatge sexista."
     },
@@ -5316,7 +5316,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia tracta exclusivament d'un esdeveniment esportiu puntual sense implicacions específiques per a minories o grups desfavorits."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text informa sobre un partit masculí específic, sense implicacions ni referències que facin rellevant la perspectiva de gènere."
     },
@@ -5350,7 +5350,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no implica directament cap grup minoritari o socialment desfavorit, sinó que se centra en aspectes lingüístics i culturals generals."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No",
       "comentari": "El text cita exclusivament homes com a experts i responsables (Pere Navarro, Vicent Beltran, Òscar Palau, Roger Mas, Joan Reig, Miquel Servera), sense incloure cap veu femenina explícita, tot i que es menciona breument la participació de dones (influencers Can Putades, la Maria) sense donar-los veu directa ni protagonisme clar."
     },
@@ -5384,7 +5384,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia tracta exclusivament sobre una programació musical, sense implicacions específiques per a minories o grups desfavorits."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No",
       "comentari": "La notícia menciona majoritàriament artistes masculins, amb només una artista femenina citada explícitament (Alexandra Soumm), mostrant un desequilibri clar en la representació de gènere."
     },
@@ -5418,7 +5418,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no implica directament cap grup minoritari ni socialment desfavorit de manera específica, sinó que se centra en un col·lectiu professional (pagesos)."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta una dimensió diferencial per gènere ni fa referència explícita a qüestions de gènere o representació desigual."
     },
@@ -5452,7 +5452,7 @@
       "compliment": "Sí",
       "comentari": "El text fa referència explícita a polítiques discriminatòries sobre empadronament i declaracions d'odi contra immigració, religions i cultures, mostrant atenció adequada a minories afectades."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text no aborda qüestions específiques relacionades amb el gènere ni presenta elements que facin rellevant aquest criteri."
     },
@@ -5486,7 +5486,7 @@
       "compliment": "Sí",
       "comentari": "El text menciona explícitament que l'entitat organitzadora treballa per la inserció sociolaboral de persones en situació de vulnerabilitat, donant visibilitat a aquest col·lectiu."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text utilitza un llenguatge inclusiu i respectuós, centrant-se en les dones com a protagonistes principals de l'esdeveniment sense reproduir estereotips discriminatoris."
     },
@@ -5520,7 +5520,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut del text no aborda qüestions que afectin específicament minories o grups desfavorits, sinó que se centra en un debat polític general sobre finançament autonòmic."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No",
       "comentari": "El text només cita homes (Juan Fernández, Alberto Núñez Feijóo, Salvador Illa, Pedro Sánchez), sense incloure cap veu femenina ni perspectiva de gènere, tot i que històricament sí que menciona Alícia Sánchez-Camacho, però només com a referència passada."
     },
@@ -5554,7 +5554,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no implica ni afecta directament cap grup minoritari o socialment desfavorit."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text se centra exclusivament en un incident esportiu concret protagonitzat per homes, sense implicacions específiques de gènere ni oportunitat per a la representació femenina."
     },
@@ -5588,7 +5588,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia tracta sobre una iniciativa política general sobre habitatge i governança urbana europea, sense referències específiques a minories o grups desfavorits. No hi ha cap omissió problemàtica en aquest context."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text informa sobre una intervenció institucional protagonitzada per dos alcaldes homes. No hi ha referències explícites a qüestions de gènere ni elements que impliquin desigualtat o estereotips de gènere. Per tant, aquest criteri no és aplicable."
     },
@@ -5622,7 +5622,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia no tracta cap tema relacionat amb minories o grups desfavorits, per tant aquest criteri no és pertinent."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text no presenta cap dimensió de gènere rellevant ni implica representació desigual o estereotipada d'homes i dones."
     },
@@ -5656,7 +5656,7 @@
       "compliment": "No aplica",
       "comentari": "El text se centra en un acte commemoratiu específic d'una comunitat religiosa concreta, sense que la representació o absència d'altres minories sigui rellevant en aquest context."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta una dimensió específica de gènere ni implica un impacte diferencial per raó de gènere. Tampoc no hi ha elements que permetin valorar la representació o exclusió de veus segons aquest criteri."
     },
@@ -5690,7 +5690,7 @@
       "compliment": "Sí",
       "comentari": "La notícia dona visibilitat explícita a minories ètniques i comunitats afectades pel conflicte (palestina i libanesa), recollint les seves reivindicacions i perspectives. Es fa referència directa a les víctimes civils, infants orfes i persones desplaçades, destacant així l'atenció a grups vulnerables."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No",
       "comentari": "Tot i que el text no presenta un llenguatge explícitament sexista, la representació de veus i fonts citades és majoritàriament masculina (Salah Jamal, Ghasan Saliba, Camil Ros, Javier Pacheco, Jaume Asens), amb una presència femenina molt menor (Dominique Salon, Alys Samson-Estapé, Laure Vega). Això indica un desequilibri en la representació de gènere en les fonts citades."
     },
@@ -5724,7 +5724,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia tracta exclusivament sobre assignacions pressupostàries a institucions culturals, sense implicacions directes per a minories o grups desfavorits."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text no presenta cap dimensió relacionada amb el gènere ni fa referència a persones concretes o col·lectius específics que permetin valorar aquest criteri."
     },
@@ -5758,7 +5758,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia tracta específicament sobre una condemna judicial a activistes feministes per una acció reivindicativa, sense implicacions directes o explícites sobre minories socials o econòmiques."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text utilitza un llenguatge inclusiu i respectuós amb la perspectiva de gènere, donant veu explícita al moviment feminista i evitant estereotips sexistes."
     },
@@ -5792,7 +5792,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia tracta sobre avenços científics específics i l'atorgament d'un premi Nobel, sense implicacions directes sobre minories o grups desfavorits."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "Tot i que els premiats són homes, el text inclou la veu d'una dona, Ellen Moons, presidenta del Comitè Nobel, i utilitza un llenguatge neutre i no sexista."
     },
@@ -5826,7 +5826,7 @@
       "compliment": "No aplica",
       "comentari": "La temàtica del text no implica ni afecta específicament cap grup minoritari o desfavorit."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text no presenta cap dimensió relacionada amb el gènere ni implica representació o impacte diferencial per raó de gènere."
     },
@@ -5860,7 +5860,7 @@
       "compliment": "Sí",
       "comentari": "La notícia dona visibilitat a reivindicacions relacionades amb minories històricament afectades pel colonialisme i el racisme, destacant explícitament aquestes problemàtiques."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text no presenta elements que facin rellevant una anàlisi específica sobre paritat o equilibri de gènere, ja que no s'identifiquen protagonistes ni fonts diferenciades per gènere ni impactes diferencials."
     },
@@ -5894,7 +5894,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut de la notícia no implica ni afecta directament cap grup minoritari o socialment desfavorit. Es tracta d'una informació econòmica general sobre empreses i exportacions."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text inclou declaracions de dues dones en càrrecs de responsabilitat (Coia Pons i Elena Antonijuan), contribuint a una representació equilibrada de gènere. A més, no s'observen estereotips ni llenguatge sexista."
     },
@@ -5928,7 +5928,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia no tracta temes específics relacionats amb minories o grups desfavorits, ni la seva absència és problemàtica en aquest context."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text utilitza un llenguatge inclusiu ('veïns i veïnes') i no presenta estereotips de gènere ni desequilibris evidents."
     },
@@ -5962,7 +5962,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no aborda temàtiques relacionades amb minories o grups desfavorits, per tant aquest criteri no és rellevant en aquest context."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia se centra exclusivament en la figura d'un periodista concret i les reaccions a la seva mort, sense implicacions específiques sobre qüestions de gènere."
     },
@@ -5996,7 +5996,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut informatiu sobre reciclatge de medicaments no implica directament cap grup minoritari ni socialment desfavorit."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta cap dimensió diferencial per gènere ni fa referència a aspectes que impliquin desigualtat o representació desequilibrada entre homes i dones."
     },
@@ -6030,7 +6030,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no fa referència explícita ni implícita a minories o grups desfavorits, ni aquesta dimensió és rellevant per al tema tractat."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text inclou veus femenines expertes (Dolors Armenteres, Alícia Pérez Porro, Susana Muhamad) i masculines (António Guterres, Gustavo Petro), mostrant equilibri de gènere en les fonts citades."
     },
@@ -6064,7 +6064,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no tracta temes que impliquin o afectin específicament minories o grups desfavorits, per la qual cosa aquest criteri no és aplicable."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text presenta una representació equilibrada de gènere, destacant tant figures femenines (Alba Riera, Núria Fargas, Rosa Romà) com masculines (Gaietà Dalmases, Adrià Serra), sense reproduir estereotips ni llenguatge sexista."
     },
@@ -6098,7 +6098,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no implica ni afecta cap grup minoritari o socialment desfavorit, per tant aquest criteri no és pertinent."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia informa sobre un partit de futbol masculí específic, sense implicacions ni referències a qüestions de gènere o representació femenina."
     },
@@ -6132,7 +6132,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut del text no té cap relació amb minories o grups desfavorits, per tant aquest criteri no és pertinent."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia tracta exclusivament sobre un partit de futbol masculí i una decisió arbitral puntual, sense implicacions específiques de gènere ni representació diferencial."
     },
@@ -6166,7 +6166,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no té cap relació directa ni indirecta amb minories o grups desfavorits, per tant aquest criteri no és pertinent."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia informa sobre un esdeveniment esportiu masculí específic, sense implicacions ni referències que facin rellevant l'equilibri de gènere."
     },
@@ -6200,7 +6200,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no fa referència ni té implicacions directes sobre minories o grups desfavorits, per tant aquest criteri no és pertinent."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text se centra en una artista femenina, Mariona Escoda, i inclou comentaris elogiosos tant d'homes com de dones, sense reproduir estereotips de gènere ni fer ús de llenguatge sexista."
     },
@@ -6234,7 +6234,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia tracta exclusivament sobre resultats esportius i actuacions individuals, sense cap dimensió rellevant relacionada amb minories o grups desfavorits."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text informa sobre una competició masculina específica (Champions League masculina), per tant, no hi ha una dimensió de gènere aplicable en aquest context concret."
     },
@@ -6268,7 +6268,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut de la notícia no implica directament cap grup minoritari ni socialment desfavorit, per tant aquest criteri no és aplicable."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia informa sobre un accident laboral concret sense implicacions específiques de gènere ni representació desigual, per tant aquest criteri no és aplicable."
     },
@@ -6302,7 +6302,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no té cap relació amb minories o grups desfavorits, sinó que se centra en una qüestió tècnica esportiva."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia tracta exclusivament sobre una polèmica arbitral específica, sense implicacions ni referències a qüestions de gènere."
     },
@@ -6336,7 +6336,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no implica ni afecta directament cap grup minoritari o socialment desfavorit, per tant aquest criteri no és pertinent."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No",
       "comentari": "El text només menciona figures masculines, sense cap referència a dones o altres identitats de gènere, reproduint així una representació exclusivament masculina."
     },
@@ -6370,7 +6370,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia tracta exclusivament sobre resultats esportius i actuacions individuals en partits de futbol, sense cap dimensió rellevant relacionada amb minories o grups desfavorits."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text informa exclusivament sobre partits masculins de futbol professional, sense implicacions específiques de gènere ni oportunitat per abordar la paritat o equilibri de gènere."
     },
@@ -6404,7 +6404,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no aborda temàtiques específiques que impliquin directament minories o grups socialment desfavorits."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No",
       "comentari": "Totes les fonts citades són homes, sense cap presència femenina ni perspectiva de gènere explícita, fet que evidencia manca d'equilibri en la representació de veus."
     },
@@ -6438,7 +6438,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia tracta sobre un esdeveniment esportiu commemoratiu sense implicacions específiques per a minories o grups desfavorits."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No",
       "comentari": "El text només menciona figures masculines, sense cap referència explícita a dones esportistes o directives, reproduint així una representació desequilibrada."
     },
@@ -6472,7 +6472,7 @@
       "compliment": "No aplica",
       "comentari": "El text no aborda qüestions relacionades amb minories o grups desfavorits, sinó que se centra exclusivament en aspectes mediambientals i urbanístics."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text inclou veus tant femenines com masculines (Lola Paniagua i Lluís Borrera), sense reproduir estereotips de gènere ni fer ús de llenguatge sexista."
     },
@@ -6506,7 +6506,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia tracta sobre controls de seguretat en transport escolar i no implica directament cap grup minoritari o desfavorit."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text no presenta cap dimensió diferencial per gènere ni fa referència explícita a persones o col·lectius en termes de gènere."
     },
@@ -6540,7 +6540,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no implica directament cap grup minoritari ni socialment desfavorit, sinó que se centra en figures polítiques i judicials concretes."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta una dimensió diferencial per gènere ni implica qüestions relacionades amb la representació o impacte desigual entre homes i dones."
     },
@@ -6574,7 +6574,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut de la notícia no implica ni afecta directament cap grup minoritari o socialment desfavorit."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia se centra en declaracions específiques de dos polítics homes sobre un cas concret d'espionatge, sense implicacions específiques de gènere ni representació desigual."
     },
@@ -6608,7 +6608,7 @@
       "compliment": "No",
       "comentari": "La notícia tracta sobre l'eliminació d'un assentament informal, probablement habitat per persones en situació de vulnerabilitat, però no dona veu ni visibilitat a aquestes persones ni al seu context social."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text no presenta elements que facin rellevant una anàlisi específica sobre equilibri o representació de gènere."
     },
@@ -6642,7 +6642,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no aborda temàtiques relacionades amb minories o grups desfavorits, per tant aquest criteri no és pertinent en aquest context."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No",
       "comentari": "Totes les fonts citades són homes, sense presència femenina ni equilibri de gènere en les veus recollides, tot i que el tema no té una dimensió explícita de gènere."
     },
@@ -6676,7 +6676,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia no aborda temàtiques relacionades amb minories o grups desfavorits, sinó que se centra en oficis tradicionals i cultura popular local."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No",
       "comentari": "Tots els protagonistes mencionats explícitament són homes (Josep Viñals, Joan Costa, Jaume Fornell, Carles Freixes, Pablo Picasso), sense cap referència explícita a dones o perspectiva de gènere."
     },
@@ -6710,7 +6710,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no aborda explícitament qüestions relacionades amb minories o grups desfavorits, ni aquestes són rellevants per al context específic de la notícia."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text destaca explícitament la importància del futbol femení i la necessitat de millorar les condicions per a les jugadores, evitant estereotips i promovent la igualtat de gènere."
     },
@@ -6744,7 +6744,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia no aborda temàtiques específiques relacionades amb minories o grups desfavorits, sinó que informa sobre una reorganització hospitalària general."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No",
       "comentari": "Totes les fonts citades explícitament són homes (conseller, director, gerents), sense cap presència femenina visible, fet que evidencia manca d'equilibri de gènere en les fonts."
     },
@@ -6778,7 +6778,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia tracta exclusivament d'un incident anecdòtic en un partit esportiu, sense cap dimensió rellevant relacionada amb minories o grups desfavorits."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text se centra exclusivament en dos jugadors masculins i no presenta cap aspecte relacionat amb el gènere ni implica cap impacte diferencial per raó de gènere."
     },
@@ -6812,7 +6812,7 @@
       "compliment": "No",
       "comentari": "El text tracta sobre ocupacions d'habitatges, un tema amb implicacions socials i econòmiques importants, però no inclou explícitament la veu ni la perspectiva dels col·lectius més vulnerables o afectats per la crisi habitacional, centrant-se exclusivament en propietaris i actors polítics."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text inclou declaracions tant d'homes com de dones (Eva Baró d'ERC), sense reproduir estereotips de gènere ni fer ús d'un llenguatge sexista."
     },
@@ -6846,7 +6846,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no tracta temes que impliquin directament minories o grups desfavorits, per tant aquest criteri no és rellevant en aquest context."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no aborda qüestions específiques de gènere ni presenta situacions on la representació o impacte diferencial per gènere sigui rellevant."
     },
@@ -6880,7 +6880,7 @@
       "compliment": "No aplica",
       "comentari": "El text no tracta temàtiques que impliquin directament minories o grups desfavorits, sinó que se centra en qüestions polítiques generals i mediambientals."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No",
       "comentari": "El text només menciona homes com a protagonistes polítics (Ernest Urtasun, Salvador Illa, Eloi Badia, Jaume Asens, Tomàs Molina), sense cap referència a dones ni equilibri de gènere en les fonts citades o protagonistes mencionats."
     },
@@ -6914,7 +6914,7 @@
       "compliment": "No aplica",
       "comentari": "El text no tracta sobre cap grup minoritari ni sobre col·lectius socialment desfavorits, sinó sobre conflictes relacionats amb el turisme."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text inclou tant veus femenines (Esther Torrent, presidenta de l'ATA) com masculines (David Riba, president de Federatur), sense reproduir estereotips de gènere ni fer ús de llenguatge sexista."
     },
@@ -6948,7 +6948,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia no tracta cap tema relacionat amb minories o grups desfavorits, per tant aquest criteri no és rellevant."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No",
       "comentari": "El text menciona dues dones participant en l'acció però no les identifica ni els dona veu pròpia, reproduint així una representació desequilibrada."
     },
@@ -6982,7 +6982,7 @@
       "compliment": "No aplica",
       "comentari": "El text no aborda qüestions relacionades amb minories o grups desfavorits, sinó un conflicte específic entre pagesos i administració pública."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta cap dimensió relacionada amb el gènere ni implica representació diferencial d'homes i dones."
     },
@@ -7016,7 +7016,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia tracta sobre la gestió administrativa i turística d'un parc natural, sense implicacions específiques per a minories o grups desfavorits."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No",
       "comentari": "Totes les fonts citades són homes (els tres alcaldes), sense presència femenina ni ús explícit de llenguatge inclusiu o neutre."
     },
@@ -7050,7 +7050,7 @@
       "compliment": "No aplica",
       "comentari": "El text tracta sobre una decisió promocional esportiva específica i no aborda ni implica directament cap grup minoritari o socialment desfavorit."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text no aborda qüestions de gènere ni presenta situacions on la representació o impacte diferencial per gènere sigui rellevant."
     },
@@ -7084,7 +7084,7 @@
       "compliment": "No aplica",
       "comentari": "El text tracta específicament sobre un conflicte militar i un funeral d'un grup armat, sense que la dimensió de minories socials o econòmiques sigui rellevant en aquest context concret."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text descriu un esdeveniment militar i religiós específic, sense que la dimensió de gènere sigui rellevant ni explícitament tractada en aquest context."
     },
@@ -7118,7 +7118,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut de la notícia no fa referència ni té implicacions directes sobre minories o grups socialment desfavorits."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no aborda qüestions específiques de gènere ni presenta situacions on la representació o impacte diferencial per gènere sigui rellevant."
     },
@@ -7152,7 +7152,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut de la notícia no implica directament cap grup minoritari ni col·lectiu socialment desfavorit, per tant aquest criteri no és rellevant en aquest context."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta una dimensió diferencial per gènere ni fa referència explícita a qüestions relacionades amb la representació o impacte desigual entre homes i dones."
     },
@@ -7186,7 +7186,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut del text no implica ni fa referència a cap grup minoritari o socialment desfavorit, per tant aquest criteri no és rellevant en aquest context."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No",
       "comentari": "El text només menciona una dona (Blanca Busquets) entre diversos homes citats com a participants del documental. Tot i que el tema central és la trajectòria d'un home, la representació femenina és molt limitada i no s'observa cap esforç explícit per equilibrar la presència de veus femenines."
     },
@@ -7220,7 +7220,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut informatiu no tracta qüestions que impliquin o afectin específicament minories o grups desfavorits."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text presenta equilibri de gènere en la selecció dels presentadors (una dona i un home) i no utilitza llenguatge sexista ni estereotips de gènere."
     },
@@ -7254,7 +7254,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut del text no implica directament cap grup minoritari ni socialment desfavorit, per tant aquest criteri no és rellevant en aquest context."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text inclou declaracions equilibrades d'un portaveu home (Eloi Redón) i una portaveu dona (Anna Recasens), sense reproduir estereotips de gènere ni fer ús de llenguatge sexista."
     },
@@ -7288,7 +7288,7 @@
       "compliment": "Sí",
       "comentari": "El text dona visibilitat explícita a un col·lectiu professional (educadors socials) que denuncia condicions laborals precàries i situacions de violència, posant en relleu una problemàtica que afecta un grup específic i sovint poc visible."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text utilitza un llenguatge inclusiu ('educadores i educadors socials') i evita estereotips de gènere, mostrant sensibilitat envers la representació equilibrada de dones i homes."
     },
@@ -7322,7 +7322,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no implica directament cap grup minoritari ni socialment desfavorit, sinó que se centra en sectors econòmics específics."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta cap dimensió diferencial per gènere ni fa referència explícita o implícita a qüestions de gènere."
     },
@@ -7356,7 +7356,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia tracta sobre una reivindicació sectorial d'agricultors i ramaders, sense que hi hagi una dimensió explícita relacionada amb minories o grups desfavorits."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text inclou declaracions equilibrades d'una dona (Laia Angrill) i d'un home (Adrià Ubach), sense reproduir estereotips de gènere ni fer ús d'un llenguatge sexista."
     },
@@ -7390,7 +7390,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no implica ni afecta específicament cap grup minoritari o socialment desfavorit."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia se centra en un partit de futbol masculí, sense implicacions específiques sobre qüestions de gènere ni representació femenina."
     },
@@ -7424,7 +7424,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no fa referència explícita ni implícita a cap grup minoritari o socialment desfavorit, ni la temàtica ho requereix específicament."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta una dimensió diferencial per gènere ni fa referència a qüestions que impliquin desigualtat o representació de gènere."
     },
@@ -7458,7 +7458,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia no aborda explícitament temàtiques relacionades amb minories o grups desfavorits, ni aquestes són rellevants per al contingut presentat."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text presenta un repartiment equilibrat entre actors i actrius, utilitza un llenguatge inclusiu i evita estereotips de gènere."
     },
@@ -7492,7 +7492,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut de la notícia no aborda qüestions que afectin específicament minories o grups desfavorits, per tant aquest criteri no és rellevant en aquest context."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia se centra en declaracions polítiques específiques d'un líder polític masculí, sense implicacions directes sobre qüestions de gènere ni representació diferencial d'homes i dones."
     },
@@ -7526,7 +7526,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia tracta sobre un atemptat terrorista i les acusacions polítiques entre Rússia i Ucraïna. No hi ha una dimensió explícita relacionada amb minories o grups desfavorits que faci rellevant aquest criteri."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text informa sobre un atemptat i les reaccions polítiques posteriors. No hi ha una dimensió específica de gènere ni elements que facin rellevant aquest criteri en aquest context."
     },
@@ -7560,7 +7560,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no aborda temàtiques ni contextos on la representació o atenció a minories sigui pertinent."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text se centra exclusivament en jugadors masculins d'un partit de bàsquet masculí, sense implicacions específiques de gènere ni oportunitat per a la representació femenina."
     },
@@ -7594,7 +7594,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no aborda qüestions específiques relacionades amb minories o grups desfavorits, ni aquestes són rellevants per al context informatiu presentat."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text presenta una dona com a protagonista principal (Jéssica Albiach) sense reproduir estereotips de gènere ni fer ús de llenguatge sexista."
     },
@@ -7628,7 +7628,7 @@
       "compliment": "No aplica",
       "comentari": "El text informa sobre incidents violents puntuals sense que la dimensió específica de minories o grups desfavorits sigui rellevant per entendre els fets narrats."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta una dimensió específica de gènere ni implica un impacte diferencial clar entre homes i dones. El llenguatge utilitzat és neutre i no reprodueix estereotips de gènere."
     },
@@ -7662,7 +7662,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia informa sobre una agressió política específica sense implicacions directes per a minories o grups desfavorits."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia tracta d'un incident concret amb protagonistes masculins, sense implicacions específiques de gènere ni ús problemàtic del llenguatge."
     },
@@ -7696,7 +7696,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut del text se centra en la narració esportiva d'un partit de futbol sense implicacions directes per a minories o grups desfavorits."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia informa sobre un partit masculí de futbol professional, sense implicacions específiques relacionades amb la igualtat de gènere o representació femenina."
     },
@@ -7730,7 +7730,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no fa referència explícita ni implícita a minories o grups desfavorits, ni la temàtica ho requereix."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta una dimensió diferencial per gènere ni fa referència a qüestions específiques relacionades amb la representació o impacte desigual entre homes i dones."
     },
@@ -7764,7 +7764,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no tracta temes que impliquin directament minories o grups desfavorits, per tant aquest criteri no és rellevant en aquest context."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no aborda qüestions de gènere ni presenta elements que facin rellevant l'anàlisi d'aquest criteri."
     },
@@ -7798,7 +7798,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no aborda ni implica directament cap grup minoritari o socialment desfavorit, per tant aquest criteri no és rellevant per a aquesta notícia."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta una dimensió diferencial per gènere ni implica representacions o impactes específics relacionats amb la igualtat de gènere."
     },
@@ -7832,7 +7832,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut de la notícia no tracta temàtiques que impliquin directament minories o grups desfavorits, per tant aquest criteri no és rellevant en aquest context."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no aborda qüestions específiques de gènere ni presenta elements que permetin valorar la paritat o l'equilibri de gènere."
     },
@@ -7866,7 +7866,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no aborda temàtiques relacionades amb minories o grups desfavorits, ni aquestes són rellevants per al context esportiu presentat."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia se centra en un context esportiu específic masculí (equip masculí de futbol), sense implicacions ni referències explícites a qüestions de gènere o representació femenina."
     },
@@ -7900,7 +7900,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no implica ni afecta directament cap grup minoritari o socialment desfavorit, per tant aquest criteri no és rellevant en aquest context."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta cap dimensió explícita relacionada amb el gènere ni implica un impacte diferencial per raó de gènere."
     },
@@ -7934,7 +7934,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut de la notícia no implica directament cap grup minoritari ni socialment desfavorit, per tant aquest criteri no és rellevant en aquest context."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta una dimensió específica relacionada amb el gènere, ni en termes d'impacte diferencial ni en representació o llenguatge utilitzat."
     },
@@ -7968,7 +7968,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia tracta sobre una protesta ambiental específica i no implica directament cap grup minoritari o socialment desfavorit, per tant aquest criteri no és rellevant."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text no fa referència explícita a cap persona ni grup identificable per gènere, ni presenta situacions on la perspectiva de gènere sigui rellevant o aplicable."
     },
@@ -8002,7 +8002,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no implica directament cap grup minoritari ni socialment desfavorit, per tant aquest criteri no és rellevant en aquest context."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta cap dimensió específica relacionada amb el gènere ni fa referència a qüestions que impliquin desigualtat o representació diferencial entre homes i dones."
     },
@@ -8036,7 +8036,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut del text no aborda explícitament ni implícitament qüestions relacionades amb minories o grups desfavorits, ni aquestes són rellevants per al tema tractat."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text inclou fonts expertes tant masculines com femenines (Dr. Gargallo i Dra. Garralda), sense reproduir estereotips de gènere ni fer ús de llenguatge sexista."
     },
@@ -8070,7 +8070,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia no tracta cap tema relacionat amb minories o grups desfavorits, per tant aquest criteri no és rellevant."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El contingut no presenta cap dimensió diferencial per gènere ni implica representació desigual o estereotips de gènere."
     },
@@ -8104,7 +8104,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no té cap relació directa ni indirecta amb minories o grups desfavorits, per tant aquest criteri no és pertinent."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia se centra exclusivament en un partit de futbol masculí, sense implicacions específiques de gènere ni oportunitat per valorar la paritat o equilibri."
     },
@@ -8138,7 +8138,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia no tracta específicament sobre minories ni grups desfavorits, sinó sobre una problemàtica general de salut pública."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text no presenta una dimensió diferencial per gènere ni fa referència explícita a qüestions de gènere o representació específica d'homes o dones."
     },
@@ -8172,7 +8172,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia tracta sobre una situació esportiva específica sense implicacions directes per a minories o grups desfavorits, per tant aquest criteri no és aplicable."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text tracta exclusivament sobre fets relacionats amb un equip masculí de futbol professional, sense implicacions específiques de gènere ni oportunitats per abordar la paritat o equilibri de gènere."
     },
@@ -8206,7 +8206,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no fa referència explícita ni implícita a minories o grups desfavorits, ni la temàtica ho requereix."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text inclou declaracions d'una dona (Blanca de Llobet) en un rol destacat, sense reproduir estereotips de gènere ni fer ús de llenguatge sexista."
     },
@@ -8240,7 +8240,7 @@
       "compliment": "No aplica",
       "comentari": "El text no aborda temàtiques relacionades amb minories o grups desfavorits, ni aquestes són rellevants per al contingut informatiu presentat."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta cap dimensió relacionada amb el gènere ni implica representació o impacte diferencial per raó de gènere."
     },
@@ -8274,7 +8274,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no aborda temàtiques relacionades amb minories o grups desfavorits, sinó que se centra exclusivament en la protecció de les aus."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta una dimensió diferencial per gènere ni implica representació o impacte desigual entre homes i dones."
     },
@@ -8308,7 +8308,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut del text no implica directament cap minoria o grup social desfavorit, sinó que se centra en la descripció interna d'un programa radiofònic."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No",
       "comentari": "El text menciona explícitament que per al Dia Mundial de la Dona es va escollir un personatge femení violent (comtessa Bathory), fet que pot reforçar estereotips negatius sobre les dones i no promou una representació equilibrada ni positiva."
     },
@@ -8342,7 +8342,7 @@
       "compliment": "No aplica",
       "comentari": "El text no tracta cap tema relacionat amb minories o grups desfavorits, ni la seva absència resulta problemàtica en aquest context informatiu."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text presenta una dona empresària com a protagonista, sense recórrer a estereotips de gènere ni llenguatge sexista, contribuint així a una representació equilibrada i positiva."
     },
@@ -8376,7 +8376,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut se centra en fitxatges esportius i no implica ni afecta específicament cap grup minoritari o socialment desfavorit. Per tant, aquest criteri no és rellevant per a aquesta notícia."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No",
       "comentari": "La notícia només fa referència a fitxatges masculins i no menciona en cap moment el futbol femení ni cap dona relacionada amb l'esport. Tot i que el tema central és el futbol masculí, l'absència total de referències al futbol femení o a dones en l'àmbit esportiu implica un desequilibri de gènere."
     },
@@ -8410,7 +8410,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut del text no implica directament cap grup minoritari ni socialment desfavorit, sinó que se centra en qüestions polítiques i judicials generals."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text utilitza un llenguatge neutre i inclusiu, esmenta explícitament tant homes com dones (per exemple, Cuca Gamarra, Dolors Bassa) i no reprodueix estereotips de gènere."
     },
@@ -8444,7 +8444,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no tracta explícitament sobre minories o grups desfavorits, ni la seva absència resulta problemàtica en aquest context específic."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text promou la igualtat de gènere, destacant el paper actiu de dones influents com Kamala Harris i Taylor Swift, i rebutjant explícitament estereotips sexistes."
     },
@@ -8478,7 +8478,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no aborda temàtiques relacionades amb minories o grups desfavorits, per tant aquest criteri no és pertinent en aquest context."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No",
       "comentari": "El text se centra exclusivament en la figura masculina de Joan Carles I, mentre que les dones mencionades (Bárbara Rey, Corinna Larsen) apareixen únicament en relació amb afers sentimentals o escàndols, reproduint així estereotips de gènere."
     },
@@ -8512,7 +8512,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no aborda temàtiques relacionades amb minories o grups desfavorits, ni aquestes són rellevants per al context específic de la notícia."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta una dimensió específica de gènere ni implica representacions o impactes diferencials per raó de gènere."
     },
@@ -8546,7 +8546,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no implica ni afecta directament cap grup minoritari o socialment desfavorit, per tant aquest criteri no és pertinent en aquest context."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text no presenta estereotips de gènere evidents ni fa ús d'un llenguatge sexista. La representació dels protagonistes (un home i una dona) és equilibrada i neutra."
     },
@@ -8580,7 +8580,7 @@
       "compliment": "Sí",
       "comentari": "El text fa referència explícita a l'atenció a persones vulnerables, destacant que el servei municipal ja ha atès 46.000 veïns d'aquest col·lectiu, mostrant així sensibilitat envers grups socialment desfavorits."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta una dimensió específica relacionada amb el gènere ni implica representacions o impactes diferencials per raó de gènere."
     },
@@ -8614,7 +8614,7 @@
       "compliment": "Sí",
       "comentari": "El text dona visibilitat adequada a les persones migrants, un col·lectiu vulnerable i minoritzat, mostrant les conseqüències de les polítiques migratòries sobre elles i incloent la perspectiva crítica d'activistes."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text no aborda explícitament qüestions de gènere ni presenta situacions on la dimensió de gènere sigui rellevant o significativa per al contingut."
     },
@@ -8648,7 +8648,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut tracta exclusivament sobre conflictes polítics i judicials entre partits i líders polítics, sense relació directa amb minories o grups desfavorits."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text no presenta estereotips de gènere ni llenguatge sexista, i inclou referències equilibrades a figures polítiques tant masculines com femenines (Ayuso, Yolanda Díaz, Begoña Gómez)."
     },
@@ -8682,7 +8682,7 @@
       "compliment": "No aplica",
       "comentari": "El text no fa referència explícita ni implícita a cap grup minoritari o socialment desfavorit, ni la temàtica ho requereix específicament."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta cap dimensió específica relacionada amb el gènere ni implica representació o impacte diferencial per raó de gènere."
     },
@@ -8716,7 +8716,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut de l'article se centra en qüestions geopolítiques i diplomàtiques globals, sense que la dimensió específica de minories o grups desfavorits sigui rellevant per al context o implicacions del fet narrat."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text tracta sobre una cimera diplomàtica internacional centrada en líders polítics específics, sense que la dimensió de gènere sigui rellevant per al contingut o les conseqüències de la informació presentada."
     },
@@ -8750,7 +8750,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no aborda ni implica directament cap grup minoritari o socialment desfavorit, sinó que se centra en una decisió editorial i les seves repercussions polítiques i empresarials."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text no presenta estereotips de gènere ni llenguatge sexista, i menciona explícitament Kamala Harris com a candidata presidencial, sense cap tractament discriminatori o desigual."
     },
@@ -8784,7 +8784,7 @@
       "compliment": "Sí",
       "comentari": "El text dona atenció explícita a grups socialment i econòmicament desfavorits, destacant com les emissions dels més rics afecten especialment les comunitats més pobres i vulnerables."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text no aborda explícitament qüestions de gènere ni presenta situacions on la dimensió de gènere sigui rellevant per al contingut o les conseqüències descrites."
     },
@@ -8818,7 +8818,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no implica ni fa referència a grups minoritaris o desfavorits, sinó que se centra en l'àmbit esportiu i en jugadors concrets."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No",
       "comentari": "El text només menciona homes (jugadors, entrenadors), sense cap referència a dones ni ús explícit d'un llenguatge inclusiu. Tot i que el context esportiu masculí pot justificar parcialment aquesta absència, no hi ha cap intent visible d'equilibri o menció a l'esport femení."
     },
@@ -8852,7 +8852,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut del text no implica directament cap grup minoritari o socialment desfavorit, per tant aquest criteri no és aplicable."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text no presenta cap dimensió específica relacionada amb el gènere ni fa referència explícita o implícita a qüestions de paritat o equilibri de gènere."
     },
@@ -8886,7 +8886,7 @@
       "compliment": "Sí",
       "comentari": "El text inclou referències explícites a minories i grups desfavorits, com alumnes de zones conflictives o segregades ('Freedom writers', 'Radical', 'Ments perilloses'), abordant les seves problemàtiques específiques amb sensibilitat."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text reconeix explícitament la manca de representació femenina en la selecció de pel·lícules i reivindica el paper de les dones en l'educació, proposant exemples com 'Freedom writers' per equilibrar aquesta representació."
     },
@@ -8920,7 +8920,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia no tracta temes que impliquin directament o indirectament minories o grups desfavorits, per tant aquest criteri no és rellevant."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text utilitza un llenguatge neutre i inclusiu, esmenta explícitament una dona en un càrrec polític (regidora Montse Closa) i no presenta cap estereotip de gènere."
     },
@@ -8954,7 +8954,7 @@
       "compliment": "Sí",
       "comentari": "El text dona atenció adequada a minories i grups desfavorits, destacant explícitament la implicació del cor en campanyes solidàries amb ONGs que treballen amb col·lectius vulnerables i en zones de conflicte o crisi humanitària."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text presenta equilibri de gènere en les fonts citades, incloent tant homes com dones (Rigoberta Menchú, Gabriela Serra, Tica Font, Elena Ponce, Georgina Altarriba), i utilitza un llenguatge inclusiu i no sexista."
     },
@@ -8988,7 +8988,7 @@
       "compliment": "No aplica",
       "comentari": "El text se centra en l'ús lingüístic general a l'entorn laboral i no aborda explícitament qüestions relacionades amb minories o grups desfavorits."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text no tracta qüestions específiques de gènere ni presenta situacions on la dimensió de gènere sigui rellevant per al contingut o les dades exposades."
     },
@@ -9022,7 +9022,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut de la notícia no implica directament ni indirectament cap grup minoritari o socialment desfavorit, per tant aquest criteri no és rellevant en aquest context."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia se centra en la designació d'una persona concreta per un càrrec polític i les seves posicions sobre energia, sense implicacions específiques relacionades amb el gènere ni ús de llenguatge sexista."
     },
@@ -9056,7 +9056,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no fa referència explícita ni implícita a minories o grups desfavorits, ni la temàtica ho requereix específicament."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text utilitza un llenguatge neutre i inclusiu, i dona visibilitat a una dona en un càrrec sindical rellevant, sense reproduir estereotips de gènere."
     },
@@ -9090,7 +9090,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no implica directament cap grup minoritari ni socialment desfavorit, sinó que se centra en qüestions de mobilitat i seguretat."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta cap dimensió diferencial per raó de gènere ni fa referència a qüestions relacionades amb la representació o impacte desigual entre homes i dones."
     },
@@ -9124,7 +9124,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia se centra en resultats científics sobre neurociència i maternitat, sense implicacions directes o indirectes sobre minories o grups desfavorits."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text utilitza un llenguatge respectuós i no sexista, evita estereotips negatius sobre les dones i inclou explícitament referències a pares i mares, reconeixent així la implicació de tots dos gèneres en la criança."
     },
@@ -9158,7 +9158,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no aborda explícitament ni indirectament qüestions relacionades amb minories o grups desfavorits."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text no presenta una dimensió de gènere rellevant ni fa referència explícita o implícita a qüestions de gènere."
     },
@@ -9192,7 +9192,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut del text no fa referència explícita ni implícita a minories o grups socialment desfavorits, ni aquesta dimensió sembla rellevant per al tema tractat."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text tracta sobre un conflicte polític concret i no aborda qüestions de gènere ni presenta elements que facin rellevant aquest criteri."
     },
@@ -9226,7 +9226,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no aborda temàtiques relacionades amb minories o grups desfavorits, ni aquestes dimensions són rellevants per al context narrat."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text tracta amb normalitat i respecte el futbol femení, fent referència explícita a jugadores i àrbitra, sense reproduir estereotips de gènere ni llenguatge sexista."
     },
@@ -9260,7 +9260,7 @@
       "compliment": "No aplica",
       "comentari": "El text tracta sobre l'evolució industrial i empresarial sense que la dimensió de minories o grups desfavorits sigui rellevant per al contingut exposat."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No",
       "comentari": "El text només inclou veus masculines com a fonts i protagonistes (directius i experts), sense cap presència femenina explícita, fet que implica una manca d'equilibri de gènere en la representació."
     },
@@ -9294,7 +9294,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no implica ni afecta directament cap grup minoritari o socialment desfavorit."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No",
       "comentari": "Totes les fonts citades són homes (Vicenç Ferré, Francesc Pintado, Àngel Xifré), sense presència femenina ni equilibri de gènere en les veus representades."
     },
@@ -9328,7 +9328,7 @@
       "compliment": "Sí",
       "comentari": "La notícia posa explícitament el focus en alumnes amb necessitats especials, un col·lectiu minoritari que requereix atenció específica, i reclama mesures per garantir-ne la inclusió efectiva."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text no presenta una dimensió específica relacionada amb el gènere ni ofereix elements que permetin valorar aquest criteri."
     },
@@ -9362,7 +9362,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no implica directament cap grup minoritari ni socialment desfavorit, sinó que se centra en una reivindicació sectorial específica."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text no presenta cap dimensió de gènere explícita ni implícita, ni fa referència a qüestions que impliquin desigualtat o representació diferencial per raó de gènere."
     },
@@ -9396,7 +9396,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut del text se centra en qüestions polítiques generals i no aborda específicament situacions o impactes sobre minories o grups desfavorits."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text no tracta específicament qüestions de gènere ni presenta situacions on la representació o impacte diferencial per gènere sigui rellevant."
     },
@@ -9430,7 +9430,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no aborda qüestions específiques relacionades amb minories o grups desfavorits, ni aquestes són rellevants per al tema tractat."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No",
       "comentari": "El text només recull declaracions i perspectives d'homes (Salvador Illa i Jaume Collboni), sense incloure cap veu femenina ni fer cap referència explícita a la perspectiva de gènere."
     },
@@ -9464,7 +9464,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no implica ni afecta directament cap grup minoritari o socialment desfavorit, per tant aquest criteri no és pertinent."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text se centra exclusivament en un equip masculí i en un context esportiu específic, sense implicacions ni referències que facin rellevant la perspectiva de gènere."
     },
@@ -9498,7 +9498,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut informatiu no implica ni afecta directament cap grup minoritari o socialment desfavorit, per tant aquest criteri no és pertinent."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia informa sobre un torneig masculí de futbol sala, sense implicacions específiques de gènere ni oportunitat per abordar qüestions de paritat o equilibri de gènere."
     },
@@ -9532,7 +9532,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia no aborda cap tema relacionat amb minories o grups desfavorits, ni la seva absència resulta problemàtica en aquest context."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text tracta exclusivament sobre samarretes de porter masculines per a una competició masculina específica, sense implicacions ni impactes diferencials per raó de gènere."
     },
@@ -9566,7 +9566,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut de la notícia no implica directament cap grup minoritari ni tracta qüestions que afectin específicament col·lectius desfavorits."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia se centra en declaracions polítiques específiques i no presenta aspectes diferencials de gènere ni estereotips evidents."
     },
@@ -9600,7 +9600,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia tracta sobre la digitalització i les condicions laborals en el sector comercial, sense que hi hagi una dimensió explícita relacionada amb minories o grups socialment desfavorits més enllà de la qüestió de gènere ja valorada."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text identifica clarament que la digitalització afecta majoritàriament sectors feminitzats, visibilitzant així una problemàtica específica de gènere. No s'observen estereotips ni llenguatge sexista."
     },
@@ -9634,7 +9634,7 @@
       "compliment": "No",
       "comentari": "La notícia implica persones migrades i col·lectius vulnerables (drogoaddictes, persones amb problemes), però no ofereix context ni veus que evitin la seva estigmatització o invisibilització."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia informa sobre un fet policial concret sense implicacions directes en termes de representació o equilibri de gènere."
     },
@@ -9668,7 +9668,7 @@
       "compliment": "No aplica",
       "comentari": "El text no aborda cap tema relacionat amb minories o grups desfavorits, ni la seva absència és problemàtica en aquest context esportiu específic."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia se centra exclusivament en un incident protagonitzat per un jugador masculí en un context esportiu masculí, sense implicacions específiques de gènere ni oportunitat per a la representació equilibrada."
     },
@@ -9702,7 +9702,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no té cap relació directa ni indirecta amb minories o grups desfavorits, per tant aquest criteri no és pertinent."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text se centra exclusivament en un partit de futbol masculí i en l'actuació d'un jugador concret, sense implicacions específiques de gènere ni oportunitat per aplicar criteris de paritat."
     },
@@ -9736,7 +9736,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut de la notícia no implica directament cap grup minoritari ni col·lectiu socialment desfavorit, per tant aquest criteri no és aplicable."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta cap dimensió específica relacionada amb el gènere ni fa referència a qüestions que impliquin desigualtat o representació diferencial entre homes i dones."
     },
@@ -9770,7 +9770,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut informatiu se centra en xifres d'audiència i creixement digital, sense implicacions directes ni indirectes sobre minories o grups desfavorits."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text menciona tant homes com dones en la conducció dels programes (per exemple, Jordi Costa i Sònia Gelmà), sense reproduir estereotips de gènere ni fer ús de llenguatge sexista."
     },
@@ -9804,7 +9804,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no aborda temàtiques que impliquin directament minories o grups desfavorits, sinó que se centra en qüestions mediambientals i polítiques."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text no presenta cap dimensió específica relacionada amb el gènere, ni en les fonts citades ni en el contingut informatiu."
     },
@@ -9838,7 +9838,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut del text no tracta temàtiques que impliquin directament minories o grups socialment desfavorits, per tant aquest criteri no és rellevant en aquest context."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No",
       "comentari": "Tot i que apareix una dona (Cuca Gamarra), la seva presència és secundària i no s'inclouen declaracions seves. A més, el text reprodueix expressions que podrien considerar-se problemàtiques des d'una perspectiva de gènere, com la referència a la dona de Sánchez sense aportar context o veu pròpia."
     },
@@ -9872,7 +9872,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut del text no tracta temàtiques que impliquin directament minories o grups desfavorits, per tant aquest criteri no és rellevant en aquest context."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text inclou tant homes com dones en posicions rellevants (Salvador Illa, Sílvia Paneque, Alícia Romero) i no presenta estereotips de gènere ni llenguatge sexista."
     },
@@ -9906,7 +9906,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut del text no tracta temàtiques específiques que impliquin directament minories o grups desfavorits, sinó que es limita a declaracions polítiques generals en context electoral. Per tant, aquest criteri no és aplicable."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text presenta una candidata dona com a protagonista principal (Jéssica Albiach) i inclou també la diputada Aina Vidal, mostrant presència femenina rellevant. No s'observen estereotips de gènere ni llenguatge sexista."
     },
@@ -9940,7 +9940,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut tracta sobre condicions laborals i seguretat en presons, sense que la dimensió de minories o grups desfavorits sigui rellevant en aquest context específic."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta elements que impliquin una dimensió diferencial per raó de gènere, ni fa referència explícita o implícita a qüestions de gènere."
     },
@@ -9974,7 +9974,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut de la notícia no fa referència directa ni indirecta a minories o grups socialment desfavorits, ni tampoc tracta temes on la seva absència sigui problemàtica o significativa."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no aborda qüestions específiques de gènere ni presenta situacions on la representació o impacte diferencial per raó de gènere sigui rellevant. Tampoc s'observen usos discriminatoris o estereotipats del llenguatge."
     },
@@ -10008,7 +10008,7 @@
       "compliment": "No aplica",
       "comentari": "El text tracta específicament sobre la pagesia catalana i no aborda ni implica directament minories o grups desfavorits en un sentit social o econòmic més ampli."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No",
       "comentari": "El text només menciona homes com a protagonistes (Toni Martínez, Jordi Ginestà) i no inclou cap veu femenina explícita, mostrant desequilibri en la representació de gènere."
     },
@@ -10042,7 +10042,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut de la notícia se centra en una operació empresarial i financera, sense relació directa amb minories o grups desfavorits."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia tracta exclusivament sobre una operació financera i empresarial, sense implicacions específiques relacionades amb el gènere ni amb representació diferencial d'homes i dones."
     },
@@ -10076,7 +10076,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut informatiu se centra en decisions administratives i pressupostàries generals, sense que hi hagi una dimensió específica que afecti directament o indirectament minories o grups desfavorits."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta una dimensió específica relacionada amb el gènere, ni en el contingut ni en les fonts citades, per la qual cosa aquest criteri no és rellevant en aquest context."
     },
@@ -10110,7 +10110,7 @@
       "compliment": "No",
       "comentari": "Tot i que s'esmenta breument que es van oferir alternatives habitacionals a persones vulnerables, no es dona veu ni context suficient a la situació d'aquestes persones, invisibilitzant així les seves circumstàncies i perspectives."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text no presenta una dimensió explícita relacionada amb el gènere ni ofereix elements suficients per valorar aquest criteri."
     },
@@ -10144,7 +10144,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no fa referència explícita ni implícita a cap grup minoritari o socialment desfavorit, ni la temàtica ho requereix."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta cap dimensió diferencial per gènere ni fa referència a persones concretes o col·lectius específics que impliquin una perspectiva de gènere."
     },
@@ -10178,7 +10178,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no fa referència explícita ni implícita a cap grup minoritari o socialment desfavorit, ni la temàtica ho requereix específicament."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta una dimensió de gènere rellevant ni implica representació desigual o estereotipada d'homes i dones."
     },
@@ -10212,7 +10212,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut de la notícia no implica ni afecta directament cap grup minoritari o socialment desfavorit, sinó que se centra en la protecció animal."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta cap dimensió relacionada amb el gènere ni implica representació o impacte diferencial per raó de gènere."
     },
@@ -10246,7 +10246,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut del text no tracta específicament sobre minories o grups desfavorits, ni la seva absència resulta problemàtica en aquest context."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text no presenta una dimensió de gènere explícita ni implícita, ni tampoc fa referència a qüestions que impliquin desigualtat o representació diferencial per raó de gènere."
     },
@@ -10280,7 +10280,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia tracta sobre un equip esportiu femení i no implica directament cap grup minoritari o socialment desfavorit més enllà de la qüestió de gènere, que ja s'avalua en un altre criteri."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text visibilitza clarament l'equip femení, destacant la seva situació i reivindicacions, i utilitza un llenguatge adequat i no sexista."
     },
@@ -10314,7 +10314,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut informatiu sobre la programació teatral no implica directament cap dimensió relacionada amb minories o grups desfavorits."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No",
       "comentari": "Totes les persones mencionades explícitament són homes, sense cap referència a dones artistes o professionals, fet que evidencia una manca d'equilibri de gènere en la representació."
     },
@@ -10348,7 +10348,7 @@
       "compliment": "No",
       "comentari": "El text menciona explícitament les ocupacions il·legals i les plantacions de marihuana, però ho fa sense contextualitzar ni donar veu a aquests col·lectius, fet que pot contribuir a estigmatitzar-los."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta una dimensió de gènere rellevant ni implica diferències d'impacte o representació entre homes i dones."
     },
@@ -10382,7 +10382,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no fa referència explícita ni implícita a cap grup minoritari o socialment desfavorit, ni la temàtica ho requereix específicament."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta cap dimensió diferencial per raó de gènere, ni fa referència a persones concretes o col·lectius on la perspectiva de gènere sigui rellevant."
     },
@@ -10416,7 +10416,7 @@
       "compliment": "No",
       "comentari": "Tot i que el menjador social afecta directament persones en situació vulnerable, el text no recull cap veu ni perspectiva d'aquest col·lectiu, centrant-se exclusivament en les molèsties veïnals."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta cap dimensió específica relacionada amb el gènere ni fa referència a persones concretes que permetin valorar aquest criteri."
     },
@@ -10450,7 +10450,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no tracta ni implica directament cap grup minoritari o socialment desfavorit, per tant aquest criteri no és aplicable."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia se centra exclusivament en un fet protagonitzat per una figura masculina concreta, sense implicacions específiques de gènere ni representació desigual."
     },
@@ -10484,7 +10484,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut de la notícia no implica directament cap grup minoritari ni col·lectiu socialment desfavorit, per tant aquest criteri no és rellevant en aquest context."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text inclou representació equilibrada de gènere en les fonts citades, mencionant explícitament tant homes com dones (Laura Borràs, Lluís Llach, Jaume Alonso-Cuevillas, Lluís Marco), sense reproduir estereotips ni llenguatge sexista."
     },
@@ -10518,7 +10518,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut de la notícia no té cap relació directa ni indirecta amb minories o grups socialment desfavorits."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia se centra exclusivament en un fet esportiu concret (expulsió d'un jugador masculí) i en la decisió arbitral posterior, sense implicacions específiques de gènere ni representació diferencial."
     },
@@ -10552,7 +10552,7 @@
       "compliment": "Sí",
       "comentari": "El text inclou explícitament la situació d'un nen i la seva família refugiats en una estació de metro a Khàrkiv, donant visibilitat a un grup socialment desfavorit afectat per la guerra."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No",
       "comentari": "El text no inclou cap referència explícita a dones ni a altres identitats de gènere, centrant-se exclusivament en figures masculines, sense reflectir equilibri de gènere."
     },
@@ -10586,7 +10586,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut se centra en una rivalitat esportiva específica sense cap relació directa amb minories o grups desfavorits."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia tracta exclusivament sobre dos pilots masculins i un conflicte esportiu concret, sense implicacions específiques de gènere ni representació desigual."
     },
@@ -10620,7 +10620,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut del text no implica ni fa referència a cap grup minoritari o socialment desfavorit, ja que es limita a informar sobre l'edat dels jugadors i el desenvolupament d'un partit de futbol."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia informa sobre un equip masculí de futbol professional, sense que hi hagi cap dimensió de gènere rellevant en el context específic del text."
     },
@@ -10654,7 +10654,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia no aborda temes relacionats amb minories o grups desfavorits, per tant aquest criteri no és pertinent."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text se centra exclusivament en futbol masculí professional, sense implicacions específiques de gènere ni oportunitat per avaluar paritat o equilibri."
     },
@@ -10688,7 +10688,7 @@
       "compliment": "Sí",
       "comentari": "El text fa referència explícita a la situació dels llogaters, un col·lectiu potencialment vulnerable davant l'especulació immobiliària, i proposa mesures per protegir-los."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text utilitza un llenguatge inclusiu ('llogateres', 'veïnes') i dona protagonisme a una dona política (Janet Sanz), evitant estereotips de gènere."
     },
@@ -10722,7 +10722,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut se centra en qüestions ambientals i judicials relacionades amb la gestió dels sediments, sense implicacions directes per a grups minoritaris o desfavorits, per tant aquest criteri no és aplicable."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No",
       "comentari": "El text només cita fonts masculines (experts, portaveus, advocats), sense cap referència explícita a veus femenines, fet que evidencia una manca d'equilibri de gènere en la representació de fonts."
     },
@@ -10756,7 +10756,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut del text no tracta temàtiques relacionades amb minories o grups desfavorits, per tant aquest criteri no és rellevant."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text no presenta cap desequilibri de gènere ni fa ús d'un llenguatge sexista. Les referències humorístiques són neutres i no reforcen estereotips de gènere."
     },
@@ -10790,7 +10790,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut de la notícia no implica directament cap grup minoritari ni socialment desfavorit, sinó que se centra exclusivament en reivindicacions laborals generals del sector del transport."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No",
       "comentari": "La notícia només cita fonts masculines (els secretaris generals dels sindicats), sense incloure cap veu femenina ni fer cap referència explícita a la presència o participació de dones en la mobilització."
     },
@@ -10824,7 +10824,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no implica ni afecta directament cap grup minoritari o socialment desfavorit, per tant aquest criteri no és pertinent."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia se centra exclusivament en un jugador masculí i la seva trajectòria esportiva individual, sense implicacions específiques de gènere ni representació desigual."
     },
@@ -10858,7 +10858,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut del text no tracta específicament sobre minories o grups desfavorits, sinó sobre la política exterior europea i la gestió de crisis geopolítiques. Per tant, aquest criteri no és aplicable."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No",
       "comentari": "El text se centra exclusivament en la figura masculina de Josep Borrell i no menciona cap dona en càrrecs polítics o diplomàtics rellevants. Tot i que la notícia tracta sobre un documental específic, la manca absoluta de referències a dones en contextos diplomàtics o polítics rellevants implica un desequilibri de gènere."
     },
@@ -10892,7 +10892,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia tracta exclusivament sobre la gestió aeroportuària i no implica directament cap grup minoritari ni col·lectiu desfavorit."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text inclou tant una veu femenina (la portaveu Patrícia Plaja) com masculina (Marc Sanglas i Daniel Albalate), sense reproduir estereotips de gènere ni fer ús de llenguatge sexista."
     },
@@ -10926,7 +10926,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut del reportatge no aborda ni implica directament grups minoritaris o socialment desfavorits, per tant aquest criteri no és rellevant en aquest context."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text no presenta una dimensió de gènere explícita ni implícita, ni tampoc fa referència a qüestions que impliquin desigualtat o representació diferencial per raó de gènere."
     },
@@ -10960,7 +10960,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut del text no aborda temàtiques ni contextos on sigui pertinent o rellevant la representació o menció de minories o grups desfavorits."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia se centra exclusivament en l'àmbit esportiu masculí (futbol masculí professional), sense implicacions específiques de gènere ni oportunitat per avaluar paritat o equilibri."
     },
@@ -10994,7 +10994,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut informatiu no tracta qüestions específiques que afectin directament minories o grups desfavorits, per tant, aquest criteri no és rellevant en aquest context."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "La notícia presenta una dona com a protagonista principal (la consellera Natàlia Mas Guix), sense reproduir estereotips de gènere ni fer ús de llenguatge sexista."
     },
@@ -11028,7 +11028,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut de la notícia no fa referència ni directa ni indirectament a cap grup minoritari o socialment desfavorit, sinó que se centra en una qüestió política i judicial específica."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia informa sobre declaracions polítiques específiques d'un únic actor polític masculí. No hi ha cap element que impliqui una dimensió diferencial per raó de gènere ni que permeti valorar la paritat o equilibri de gènere."
     },
@@ -11062,7 +11062,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no aborda ni implica directament cap grup minoritari o socialment desfavorit, sinó que tracta una qüestió general que afecta tota la població interessada en obtenir el carnet de conduir."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta cap dimensió específica relacionada amb el gènere, ni en el contingut ni en les fonts citades, i no hi ha indicis d'estereotips o biaixos de gènere."
     },
@@ -11096,7 +11096,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia no aborda temes ni contextos on la representació o atenció a minories sigui pertinent."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text informa exclusivament sobre jugadors masculins d'un equip masculí, sense implicacions de gènere ni oportunitat per a la representació femenina o altres identitats."
     },
@@ -11130,7 +11130,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut del text no tracta específicament sobre minories o grups desfavorits, ni la seva absència resulta problemàtica en aquest context."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text aborda explícitament les diferències de gènere en la mobilitat laboral, evita estereotips simplistes i reconeix les desigualtats estructurals del mercat laboral entre homes i dones."
     },
@@ -11164,7 +11164,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no fa referència ni té implicacions directes sobre minories o grups desfavorits, per tant aquest criteri no és rellevant en aquest context."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta una dimensió diferencial per gènere ni implica representació o impacte desigual entre homes i dones."
     },
@@ -11198,7 +11198,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut del text no implica directament ni indirectament cap dimensió específica relacionada amb minories o grups desfavorits, sinó que se centra exclusivament en la indústria tabaquera i els efectes generals sobre la salut pública."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text no presenta una dimensió diferencial per gènere ni fa referència explícita a qüestions de representació o impacte desigual entre homes i dones o altres identitats de gènere."
     },
@@ -11232,7 +11232,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no aborda ni implica directament cap grup minoritari o socialment desfavorit, per tant aquest criteri no és rellevant en aquest context."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta una dimensió diferencial per gènere ni fa referència explícita a qüestions de gènere o representació desigual."
     },
@@ -11266,7 +11266,7 @@
       "compliment": "No aplica",
       "comentari": "El text no fa referència explícita ni implícita a minories o grups desfavorits, ni la temàtica ho requereix específicament."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no inclou referències específiques a persones ni a qüestions de gènere, ni presenta elements que facin rellevant aquest criteri."
     },
@@ -11300,7 +11300,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia no tracta temes relacionats amb minories ni grups desfavorits, sinó que informa sobre resultats electorals i declaracions polítiques generals."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text fa referència a una dona política en un càrrec de lideratge sense recórrer a estereotips de gènere ni llenguatge sexista. El tractament és neutre i adequat."
     },
@@ -11334,7 +11334,7 @@
       "compliment": "No aplica",
       "comentari": "El text no aborda directament qüestions relacionades amb minories o grups desfavorits, sinó que se centra en la problemàtica específica de la multireincidència delictiva i les estratègies institucionals per afrontar-la."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text inclou representació equilibrada de fonts masculines i femenines (per exemple, l'intendent Sònia Rius dels Mossos i diversos representants masculins), sense reproduir estereotips de gènere ni fer ús de llenguatge sexista."
     },
@@ -11368,7 +11368,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia no aborda temàtiques relacionades amb minories o grups desfavorits, per tant aquest criteri no és pertinent."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text utilitza un llenguatge neutre i inclusiu, i dona protagonisme a una dona en un càrrec polític rellevant (vicealcaldessa Gemma Geis), sense reproduir estereotips de gènere."
     },
@@ -11402,7 +11402,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia no aborda temàtiques relacionades amb minories o grups desfavorits, ni aquestes són rellevants per al context informatiu presentat."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text informa sobre un fet específic relacionat amb l'equip masculí del Barça i el seu entrenador, sense implicacions ni referències a qüestions de gènere."
     },
@@ -11436,7 +11436,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut del text no implica ni fa referència a cap grup minoritari o socialment desfavorit. Es tracta d'una notícia centrada en una situació personal i judicial específica."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia informa sobre una carta personal del pare d'una víctima després d'una sentència judicial. No hi ha elements que impliquin una dimensió diferencial per raó de gènere ni que requereixin una anàlisi específica sobre paritat o equilibri de gènere."
     },
@@ -11470,7 +11470,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia tracta exclusivament del comiat d'una futbolista i no implica cap dimensió relacionada amb minories o grups desfavorits."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text tracta sobre una esportista dona, visibilitzant el futbol femení amb respecte i sense reproduir estereotips de gènere. El llenguatge utilitzat és adequat i no sexista."
     },
@@ -11504,7 +11504,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no implica ni afecta directament cap grup minoritari o desfavorit, per tant aquest criteri no és rellevant."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia se centra en un únic protagonista masculí i no presenta cap dimensió de gènere rellevant ni susceptible d'anàlisi."
     },
@@ -11538,7 +11538,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no aborda explícitament ni implícitament qüestions relacionades amb minories o grups desfavorits, ni aquestes són rellevants per al tema tractat."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text no presenta una dimensió diferencial per gènere ni fa referència explícita o implícita a qüestions de gènere o representació desigual."
     },
@@ -11572,7 +11572,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia no tracta cap aspecte relacionat amb minories o grups desfavorits, ni el context ho requereix."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text no presenta cap element que impliqui una dimensió diferencial per gènere, ni fa referència explícita o implícita a qüestions de gènere."
     },
@@ -11606,7 +11606,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no implica ni afecta directament cap grup minoritari o socialment desfavorit, per tant aquest criteri no és pertinent."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia no presenta cap dimensió diferencial per gènere ni implica representació o impacte desigual entre homes i dones."
     },
@@ -11640,7 +11640,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut del text no implica ni afecta directament cap grup minoritari o socialment desfavorit."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia informa sobre un partit masculí de futbol professional, sense que hi hagi cap dimensió de gènere rellevant en aquest context específic."
     },
@@ -11674,7 +11674,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no tracta temes relacionats amb minories o grups desfavorits, per tant aquest criteri no és pertinent en aquest context."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia tracta exclusivament sobre la vida i obra d'una persona concreta, sense implicacions específiques sobre qüestions de gènere ni representació diferencial."
     },
@@ -11708,7 +11708,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut del text no implica directament cap grup minoritari ni tracta temàtiques on la representació o atenció a minories sigui rellevant."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text no aborda qüestions de gènere ni presenta situacions on la representació o impacte diferencial per raó de gènere sigui pertinent."
     },
@@ -11742,7 +11742,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia no tracta temes que impliquin directament minories o grups desfavorits, ni la seva absència resulta problemàtica en aquest context."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text no presenta cap aspecte relacionat amb el gènere ni implica representació desigual o estereotips de gènere."
     },
@@ -11776,7 +11776,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia informa sobre la presentació d'un llibre commemoratiu i no tracta específicament cap tema relacionat amb minories o grups desfavorits, per tant, aquest criteri no és aplicable."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text menciona tant homes com dones implicats en el projecte (Carles Solà, Núria Vilà Coma) sense reproduir estereotips de gènere ni fer ús de llenguatge sexista."
     },
@@ -11810,7 +11810,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia informa sobre fets policials específics sense que la dimensió de minories o grups desfavorits sigui rellevant per al contingut narrat."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text no presenta cap dimensió diferencial per gènere ni fa referència explícita o implícita a qüestions de gènere."
     },
@@ -11844,7 +11844,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no aborda ni implica directament cap grup minoritari o socialment desfavorit, sinó que se centra en futbolistes d'elit i les seves condicions laborals."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia se centra específicament en el futbol masculí d'elit, sense abordar qüestions de gènere ni presentar implicacions diferencials per raó de gènere."
     },
@@ -11878,7 +11878,7 @@
       "compliment": "Sí",
       "comentari": "El text dona visibilitat explícita a un col·lectiu minoritari i vulnerable (menors migrants sols), explicant les seves necessitats, experiències i dificultats d'integració."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text inclou veus tant masculines com femenines en càrrecs de responsabilitat (Teresa Llorens, Amaia Maestre Salas), i utilitza un llenguatge neutre i inclusiu, sense reproduir estereotips de gènere."
     },
@@ -11912,7 +11912,7 @@
       "compliment": "Sí",
       "comentari": "El text presta atenció explícita a minories i grups vulnerables, com les persones psiquiatritzades i les persones racialitzades, destacant els riscos específics i la vulneració potencial dels seus drets humans derivada de l'ús d'aquestes armes."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text no aborda explícitament qüestions de gènere ni presenta elements que facin rellevant aquest criteri en el context específic de la notícia analitzada."
     },
@@ -11946,7 +11946,7 @@
       "compliment": "No aplica",
       "comentari": "El contingut no té cap relació amb minories o grups desfavorits, per tant aquest criteri no és pertinent."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia se centra exclusivament en dos protagonistes masculins per raons objectives (entrenadors del Barça), sense implicacions específiques de gènere ni ús de llenguatge sexista."
     },
@@ -11980,7 +11980,7 @@
       "compliment": "No aplica",
       "comentari": "La notícia tracta sobre un fet històric específic (fundació d'un club esportiu) sense implicacions directes sobre minories o grups desfavorits, per tant aquest criteri no és rellevant."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text descriu un fet històric concret protagonitzat exclusivament per homes, reflectint fidelment la realitat històrica del moment. No hi ha elements que facin rellevant l'aplicació d'aquest criteri."
     },
@@ -12014,7 +12014,7 @@
       "compliment": "Sí",
       "comentari": "La notícia menciona explícitament la situació d'una persona en situació irregular, fet que indica atenció a un col·lectiu vulnerable. El tractament és neutre i informatiu, sense estigmatitzar ni invisibilitzar aquesta realitat."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "El text no fa referència explícita ni implícita a qüestions de gènere, ni presenta situacions on la dimensió de gènere sigui rellevant. Per tant, aquest criteri no és aplicable."
     },
@@ -12048,7 +12048,7 @@
       "compliment": "No aplica",
       "comentari": "El text se centra específicament en la violència masclista i l'assetjament sexual contra les dones, sense que sigui rellevant en aquest cas concret la menció explícita d'altres minories socials o econòmiques."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "Sí",
       "comentari": "El text promou clarament la igualtat de gènere, denuncia explícitament la violència masclista i utilitza un llenguatge inclusiu i respectuós amb les dones, evitant estereotips sexistes."
     },
@@ -12082,7 +12082,7 @@
       "compliment": "No aplica",
       "comentari": "El text no aborda específicament la situació de minories o grups desfavorits, sinó que presenta dades generals sobre desnonaments. No hi ha cap referència explícita ni implícita a col·lectius minoritaris, per tant, aquest criteri no és aplicable."
     },
-    "paritat_equilibri_genere": {
+    "paritat": {
       "compliment": "No aplica",
       "comentari": "La notícia presenta dades estadístiques generals sobre desnonaments sense fer referència a qüestions de gènere ni a impactes diferencials entre homes i dones. Tampoc no hi ha cap ús de llenguatge sexista o estereotips de gènere. Per tant, aquest criteri no és aplicable."
     },
