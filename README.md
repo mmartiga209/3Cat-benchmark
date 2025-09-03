@@ -33,7 +33,6 @@ A partir d’aquests fitxers es poden fer comparatives entre models.
 
 ### 📄 Altres
 - **`README.md`** → Documentació del repositori.  
-- **`.gitattributes`** → Configuració de Git.  
 
 ---
 
