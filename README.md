@@ -36,4 +36,27 @@ A partir d’aquests fitxers es poden fer comparatives entre models.
 
 ---
 
+
+## 🚀 Com executar els projectes
+
+Cada projecte inclòs al repositori segueix un patró bàsic de funcionament:
+
+1. **Backend**  
+   - Desplaça’t al directori del projecte corresponent.  
+   - Executa el fitxer `server.py` per aixecar el servidor backend:  
+     ```bash
+     python server.py
+     ```
+   - Per defecte, el servidor s’aixeca en un port local (normalment `http://localhost:8000/`).  
+
+2. **Frontend**  
+   - Un cop el servidor està actiu, obre el fitxer `index.html` (o equivalent) situat al directori de *frontend*.  
+   - El navegador es connectarà al servidor i l’aplicació es podrà utilitzar amb normalitat.  
+
+3. **Pujar el servidor (entorn de producció)**  
+   - Canvia la configuració del port i/o host al fitxer `server.py` perquè escolti en la IP pública o al port requerit (per exemple `0.0.0.0:8080`).  
+   - Revisa els paràmetres habituals de seguretat i desplegament (firewall, gestor de processos com `pm2` o `gunicorn`, etc.).  
+
+---
+
 ✍️ Aquest repositori serveix com a **marc de referència per mesurar i comparar el rendiment de models de llenguatge** aplicats a la classificació de notícies segons els criteris periodístics de 3Cat.
