@@ -54,7 +54,7 @@ El flux de treball del repositori es divideix en dues fases principals: **genera
 - En executar totes les cel·les, es mostren:
   - **Comparacions numèriques** entre els models.  
   - **Gràfics visuals** per entendre millor les diferències.  
-- Es recomana utilitzar com a **model de referència** el JSON del *4.5* o del *5*, i comparar-lo amb el nou model generat.  
+- Es recomana utilitzar com a **model de referència** el JSON del *4.5*, i comparar-lo amb el nou model generat.  
 
 Així es pot veure **com es comporta un nou model en relació amb els models de referència** i valorar-ne els punts forts i febles.
 
